@@ -1,6 +1,7 @@
-import numpy, scipy, sklearn, joblib, xgboost
-print("numpy", numpy.__version__)
-print("scipy", scipy.__version__)
-print("sklearn", sklearn.__version__)
-print("joblib", joblib.__version__)
-print("xgboost", xgboost.__version__)
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+scipy==1.11.4
+xgboost==2.0.3
+joblib==1.4.2
