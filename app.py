@@ -1,39 +1,3 @@
-from pathlib import Path
-import streamlit as st
-
-# Prefer artifacts/; fall back to repo root if it doesn't exist
-ART = Path("artifacts")
-if not ART.exists():
-    ART = Path(".")
-
-def pick(*candidates: Path) -> Path:
-    for p in candidates:
-        if p.exists():
-            return p
-    return candidates[0]  # default (will trigger missing-files error below)
-
-# Define paths (try artifacts/ then root)
-EDA_CSV = pick(ART / "clean_all_enrolled3.csv", Path("clean_all_enrolled3.csv"))
-
-PREP_FS = pick(ART / "preprocess_fs.pkl", Path("preprocess_fs.pkl"))
-LE_FS   = pick(ART / "le_final_status.pkl", Path("le_final_status.pkl"))
-MODEL_FS = pick(ART / "final_status_rf_tuned.pkl", Path("final_status_rf_tuned.pkl"))  # or your chosen FS model
-
-PREP_MG = pick(ART / "preprocess_mg_feat.pkl", Path("preprocess_mg_feat.pkl"))
-LE_MG   = pick(ART / "le_major_group.pkl", Path("le_major_group.pkl"))
-MODEL_MG = pick(ART / "major_group_xgb_tuned.pkl", Path("major_group_xgb_tuned.pkl"))
-
-# Helpful error if anything is still missing
-missing = [p for p in [EDA_CSV, PREP_FS, LE_FS, MODEL_FS, PREP_MG, LE_MG, MODEL_MG] if not p.exists()]
-if missing:
-    st.error("Missing required files:\n" + "\n".join(str(p) for p in missing))
-    st.stop()
-
-
-
-
-
-
 import streamlit as st
 import pandas as pd
 import numpy as np
