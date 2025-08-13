@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import joblib
 from pathlib import Path
-from io import StringIO
 
 # --------------------------------------------------
 # Page setup
@@ -12,35 +11,84 @@ st.set_page_config(page_title="AUB Online Learning – Predictive App", layout="
 st.title("AUB Online Learning – Predictive App")
 st.caption("EDA • Final Status Prediction • Major Grouping Prediction")
 
-ART = Path("artifacts")
+# --------------------------------------------------
+# Robust artifact path handling
+# --------------------------------------------------
+# Prefer artifacts/; fall back to repo root if not present
+CANDIDATE_DIRS = [Path("artifacts"), Path(".")]
+
+def find_base_dir() -> Path:
+    for d in CANDIDATE_DIRS:
+        if (d / "clean_all_enrolled3.csv").exists() or (d / "preprocess_fs.pkl").exists():
+            return d
+    return Path("artifacts")  # default (will trigger missing-files error)
+
+ART = find_base_dir()
+
+def pick(*candidates: Path) -> Path:
+    """Return the first existing path among candidates, else the first (to show in error)."""
+    for p in candidates:
+        if p.exists():
+            return p
+    return candidates[0]
+
+# Required files (try artifacts/ first, then root)
+EDA_CSV = pick(ART / "clean_all_enrolled3.csv", Path("clean_all_enrolled3.csv"))
+
+PREP_FS = pick(ART / "preprocess_fs.pkl", Path("preprocess_fs.pkl"))
+LE_FS   = pick(ART / "le_final_status.pkl", Path("le_final_status.pkl"))
+# Prefer RF model; fall back to XGB or LogReg if needed
+MODEL_FS = pick(
+    ART / "final_status_rf_tuned.pkl", Path("final_status_rf_tuned.pkl"),
+    ART / "final_status_xgb_tuned.pkl", Path("final_status_xgb_tuned.pkl"),
+    ART / "final_status_logreg_tuned.pkl", Path("final_status_logreg_tuned.pkl"),
+)
+
+PREP_MG = pick(ART / "preprocess_mg_feat.pkl", Path("preprocess_mg_feat.pkl"))
+LE_MG   = pick(ART / "le_major_group.pkl", Path("le_major_group.pkl"))
+MODEL_MG = pick(ART / "major_group_xgb_tuned.pkl", Path("major_group_xgb_tuned.pkl"))
 
 # --------------------------------------------------
-# Load artifacts
+# Fail fast with a clear message if anything is missing
 # --------------------------------------------------
-# EDA data
-EDA_CSV = ART / "clean_all_enrolled3.csv"
-df_eda = pd.read_csv(EDA_CSV)
+required_paths = [EDA_CSV, PREP_FS, LE_FS, MODEL_FS, PREP_MG, LE_MG, MODEL_MG]
+missing = [str(p) for p in required_paths if not Path(p).exists()]
+if missing:
+    st.error("Missing required files:\n\n" + "\n".join(f"- {m}" for m in missing))
+    st.info("Fix: Upload the files to an 'artifacts/' folder (preferred) or the repo root. "
+            "The app searches artifacts/ first, then the root.")
+    st.stop()
 
-# Final Status artifacts
-PREP_FS = ART / "preprocess_fs.pkl"
-LE_FS   = ART / "le_final_status.pkl"
-# >>> pick your best tuned FS model here <<<
-MODEL_FS = ART / "final_status_rf_tuned.pkl"   # or final_status_xgb_tuned.pkl / logreg
+# --------------------------------------------------
+# Cache loaders (faster app startup)
+# --------------------------------------------------
+@st.cache_data(show_spinner=False)
+def load_csv(path: Path) -> pd.DataFrame:
+    return pd.read_csv(path)
 
-preprocess_fs = joblib.load(PREP_FS)
-le_fs = joblib.load(LE_FS)
-model_fs = joblib.load(MODEL_FS)
-feat_fs = list(preprocess_fs.transformers_[0][2]) + list(preprocess_fs.transformers_[1][2])
+@st.cache_resource(show_spinner=False)
+def load_fs_artifacts(prep_path: Path, le_path: Path, model_path: Path):
+    prep = joblib.load(prep_path)
+    le = joblib.load(le_path)
+    model = joblib.load(model_path)
+    # feature columns expected by the preprocessor
+    feat = list(prep.transformers_[0][2]) + list(prep.transformers_[1][2])
+    return prep, le, model, feat
 
-# Major Grouping artifacts
-PREP_MG = ART / "preprocess_mg_feat.pkl"       # engineered features version
-LE_MG   = ART / "le_major_group.pkl"
-MODEL_MG = ART / "major_group_xgb_tuned.pkl"
+@st.cache_resource(show_spinner=False)
+def load_mg_artifacts(prep_path: Path, le_path: Path, model_path: Path):
+    prep = joblib.load(prep_path)
+    le = joblib.load(le_path)
+    model = joblib.load(model_path)
+    feat = list(prep.transformers_[0][2]) + list(prep.transformers_[1][2])
+    return prep, le, model, feat
 
-preprocess_mg = joblib.load(PREP_MG)
-le_mg = joblib.load(LE_MG)
-model_mg = joblib.load(MODEL_MG)
-feat_mg = list(preprocess_mg.transformers_[0][2]) + list(preprocess_mg.transformers_[1][2])
+# --------------------------------------------------
+# Load everything
+# --------------------------------------------------
+df_eda = load_csv(EDA_CSV)
+preprocess_fs, le_fs, model_fs, feat_fs = load_fs_artifacts(PREP_FS, LE_FS, MODEL_FS)
+preprocess_mg, le_mg, model_mg, feat_mg = load_mg_artifacts(PREP_MG, LE_MG, MODEL_MG)
 
 # --------------------------------------------------
 # Helpers
@@ -48,16 +96,13 @@ feat_mg = list(preprocess_mg.transformers_[0][2]) + list(preprocess_mg.transform
 def preprocess_inputs(df_raw: pd.DataFrame, preprocess, feat_list):
     """Ensure required columns exist, keep only expected feature order, then transform."""
     data = df_raw.copy()
-    # add any missing columns
     for col in feat_list:
         if col not in data.columns:
             data[col] = np.nan
-    # keep only features used by the preprocessor
     data = data[feat_list]
     return preprocess.transform(data)
 
 def predict_batch(df_upload: pd.DataFrame, preprocess, feat_list, model, label_encoder, top2=False):
-    """Batch predict and return per-row results + aggregate counts."""
     X = preprocess_inputs(df_upload, preprocess, feat_list)
     proba = model.predict_proba(X)
     pred_idx = np.argmax(proba, axis=1)
@@ -184,7 +229,6 @@ with tab_mg:
             proba = model_mg.predict_proba(X)[0]
             pred_idx = int(np.argmax(proba))
             pred = le_mg.inverse_transform([pred_idx])[0]
-            # Top-2
             top2_idx = np.argsort(proba)[-2:][::-1]
             top2 = [(le_mg.classes_[i], float(proba[i])) for i in top2_idx]
 
