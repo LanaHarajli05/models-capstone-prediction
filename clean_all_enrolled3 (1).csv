@@ -1,0 +1,524 @@
+Gender,First Generation,Age,University,Major,Major Grouping,COR,Nationality,Employment,Uni Grouping,Final Status,How did you hear about this program?,Name of Company,Job Title (if applicable),Motivation,Motivation Additional Info
+Female,No,34.0,AUB,Medicine,Health,Lebanon,Lebanese,Unemployed,AUB,Graduated,,,,,
+Female,Yes,27.0,LU,Chemical Engineering,Engineering,Lebanon,Lebanese,Employed,LU,Graduated,,Gandour,Production Engineer,,
+Female,No,32.0,AUB,Population Health,Health,UAE,Lebanese,Employed,AUB,Graduated,Social Media,"CCHO (Center of Clinical, Health Economics and Outcomes Research)",Population Health Researcher,,
+Female,No,21.0,LIU,Physics,Sciences,Lebanon,Lebanese,Unemployed,LIU,Graduated,,,,,
+Male,No,32.0,ENSIL-ENSCI,Mechatronics Engineering,Engineering,Lebanon,Lebanese,Employed,Unknown,Dropped,Word of Mouth,Dar Al Handasah Shair & Partners,Instrumentation & Control Engineer,,
+Male,Yes,37.0,AUB,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Unemployed,AUB,Graduated,,,,,
+Female,Yes,28.0,LAU,Mathematics,Sciences,UAE,Lebanese,Employed,LAU,Dropped,,Al Mawakeb School,Math teacher,,
+Female,Yes,35.0,LU,Medical Physics,Health,Lebanon,Lebanese,Unemployed,LU,Active,Social Media,,,,
+Male,No,26.0,AUC,Physics,Sciences,Egypt,Egyptian,Employed,Unknown,Dropped,AUB Website,Dar Al Handasah Shair & Partners,Instrumentation & Control Engineer,,
+Female,No,38.0,AUB,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,AUB,Graduated,AUB Website,Dar Al Handasah Shair & Partners,Senior Solution Developer,,
+Female,No,27.0,AUB,CCE,Engineering,Lebanon,Lebanese,Employed,AUB,Graduated,,Norwegian Refugee Council,Database Officer,,
+Male,No,41.0,BAU,Applied Statistics,Sciences,Lebanon,Palestinian,Employed,BAU,Graduated,AUB Website,,Physics Teacher,,
+Male,Yes,28.0,USJ,Electrical Engineering,Engineering,Lebanon,Lebanese,Employed,USJ,Graduated,Word of Mouth,Dar Al Handasah Shair & Partners,Electrical Engineer,,
+Male,No,23.0,LU,Mechanical Engineering,Engineering,France,Canadian,Unemployed,LU,Graduated,AUB Website,,,,
+Male,No,22.0,AUB,CCE,Engineering,Lebanon,Lebanese,Employed,AUB,Graduated,,PwC,,,
+Male,No,27.0,AUB,Business Administration,Business,UAE,Lebanese,Employed,AUB,Graduated,,PwC,Senior Consultant,,
+Male,No,37.0,AUB,ECE,Engineering,Saudi Arabia,Jordanian,Employed,AUB,Graduated,,Nesma and Partners,Project Control,,
+Male,No,43.0,Balamand,Computer Engineering,Engineering,UAE,Lebanese,Employed,Balamand,Graduated,,Rabdan Academy,Quality Assurance Section Manager,,
+Male,Yes,30.0,BAU,Mechanical Engineering,Engineering,Lebanon,Lebanese,Unemployed,BAU,Dropped,,,,,
+Male,No,27.0,MIT,Electrical Engineering,Engineering,Lebanon,Jordanian,Employed,Unknown,Dropped,,Dar Al Handasah Shair & Partners,Electrical Engineer - Group Leader,,
+Male,No,35.0,University of San Diego,ECE,Engineering,USA,Syrian,Employed,Unknown,Dropped,,MyVitaAI,Inventor & CEO,,
+Female,No,30.0,BAU,Engineering,Engineering,Saudi Arabia,Lebanese,Employed,BAU,Dropped,An Ad on Social Media,,Manager,,
+Female,Yes,33.0,AUB,Public Health,Health,Lebanon,Lebanese,Employed,AUB,Graduated,AUB Website,World Health Organization,Surveillance consultant,,
+Male,No,24.0,LIU,Economics,Business,Lebanon,Lebanese,Employed,LIU,Dropped,Instagram Organic,Ghaddar Machinery Co.,Account manager,,
+Female,Yes,45.0,AUB,ECE,Engineering,Lebanon,Lebanese,Employed,AUB,Dropped,Email from AUB,KVA,Customer Services Manager,,
+Female,No,39.0,AUB,Public Health,Health,Lebanon,Lebanese,Employed,AUB,Dropped,Email from AUB,American University of Beirut,Biomedical IRB Administrator,,
+Male,Yes,44.0,AUB,Engineering Management,Engineering,Saudi Arabia,Lebanese,Employed,AUB,Dropped,Facebook (in form),Cisco Systems,Global Systems Engineering Manager,,
+Female,No,23.0,AUB,Business Administration,Business,Lebanon,Lebanese,Employed,AUB,Dropped,Email from AUB,Hasan Khalife,Business Analyst,,
+Male,Yes,30.0,IUL,Surveying Engineer,Engineering,Lebanon,Lebanese,Employed,IUL,Inactive,AUB Website,American university in Beirut,graduate research assistant,,
+Male,Yes,25.0,LU,Physics,Sciences,Lebanon,Lebanese,Unemployed,LU,Graduated,Word of Mouth,,,,
+Female,Yes,23.0,BAU,Mathematics,Sciences,Lebanon,Lebanese,Employed,BAU,Graduated,AUB Website,AmideastLebanon,SAT Instructor,,
+Male,Yes,33.0,Antonine University,Telecommunications and Networks Engineering,Engineering,Lebanon,Lebanese,Employed,Antonine University,Graduated,Email from AUB,Medair,Application and Data Engineer,,
+Male,No,25.0,AUL,CCE,Engineering,Lebanon,Lebanese,Employed,AUL,Graduated,Word of Mouth,Emakina,Webmaster,,
+Male,Yes,27.0,AUB,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,AUB,Inactive,Word of Mouth,Fits Consulting,Solution Architect,,
+Male,No,38.0,AUB,Physics,Sciences,Lebanon,Lebanese,Employed,AUB,Dropped,Instagram,self-employed,IT Consultant,,
+Female,No,42.0,USJ,Physics,Sciences,Qatar,Lebanese,Employed,USJ,Graduated,Social Media,Lebabon school of Qatar,Physics teacher,,
+Male,Yes,34.0,AUL,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,AUL,Graduated,AUB Website,Lebanese General Security,Inspector,,
+Male,No,39.0,Applied Science University,Computer information systems,CS/IT/MIS,Palestine,Palestinian,Employed,Unknown,Graduated,AUB Website,Tawazon,Head of tech,,
+Male,Yes,38.0,LU,Game Development and Design,CS/IT/MIS,Lebanon,Lebanese,Employed,LU,Graduated,Facebook (in form),Monty Mobile,Game Development Team Lead,,
+Female,Yes,31.0,LU,Statistics,Sciences,Lebanon,Lebanese,Employed,LU,Graduated,Facebook (in form),Monty Mobile,,,
+Female,Yes,32.0,CNAM,Computer Engineering,Engineering,Lebanon,Lebanese,Employed,CNAM,Graduated,Facebook,Monty Mobile,Senior backend developer,,
+Female,No,41.0,LAU,Computer Science,CS/IT/MIS,Saudi Arabia,Lebanese,Employed,LAU,Graduated,Instagram,HBSA,IT lecturer,,
+Male,No,23.0,BAU,Mechanical Engineering,Engineering,Lebanon,Lebanese,Employed,BAU,Inactive,Facebook,CMA CGM,Internship Mechanical engineer,,
+Female,Yes,38.0,AUB,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,AUB,Graduated,Facebook,International Energy Solutions,Research and Feasibility studies,,
+Male,Yes,33.0,LU,Actuarial Sciences,Sciences,Kuwait,Lebanese,Employed,LU,Graduated,Word of Mouth,Kuwait Financial Center,Vice President - Systems,,
+Male,Yes,37.0,IUL,CCE,Engineering,Saudi Arabia,Lebanese,Employed,IUL,Graduated,Instagram (in form),Ipsotek Ltd.,Country Manager,,
+Male,No,28.0,AUB,Mechanical Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Graduated,An Ad on Social Media,Eurisko Mobility,DevOps,,
+Male,No,42.0,IUL,CCE,Engineering,Lebanon,Lebanese,Employed,IUL,Graduated,Word of Mouth,Monty Mobile,Data Director,,
+Female,No,40.0,NDU,CCE,Engineering,Qatar,Lebanese,Employed,NDU,Graduated,AUB Website,Microsoft,Customer Success Manager,,
+Male,Yes,32.0,LU,Architecture,Engineering,UAE,Lebanese,Employed,LU,Graduated,AUB Website,Obermeyer Middle East,Senior Architect,,
+Male,No,31.0,LIU,Mechanical Engineering,Engineering,Lebanon,Palestinian,Employed,LIU,Inactive,Facebook,Doctors without borders,Flying Health information systems officer,,
+Male,No,27.0,Sagesse,Law,Arts & Others,Lebanon,Lebanese,Employed,Sagesse,Dropped,Instagram,Kamal Abou Zahr Law Firm,Junior Lawyer,,
+Female,No,40.0,AUB,Masters of Public Health,Health,Lebanon,Lebanese,Employed,AUB,Dropped,An ad on social media,American University of Beirut,Principal Clinical Applications Analyst,,
+Female,No,33.0,LIU,Medical Sciences,Health,Lebanon,Lebanese,Employed,LIU,Graduated,An Ad on Social Media,Let's Graduate Scientific Academy,CEO and Founder,,
+Male,Yes,36.0,NDU,Mechanical Engineering,Engineering,Lebanon,Lebanese,Employed,NDU,Inactive,AUB Website,IMPEX,Assistant Service Manager,,
+Male,No,24.0,AUB,Chemistry,Sciences,Lebanon,Lebanese,Unemployed,AUB,Dropped,AUB Website,,,,
+Female,No,41.0,LAU,Graphic Design,Arts & Others,Lebanon,Lebanese,Unemployed,LAU,Graduated,Word of Mouth,,,,
+Female,No,47.0,Unknown,Environmental Engineering,Engineering,Egypt,Egyptian,Unemployed,Unknown,Dropped,Google,,,,
+Male,No,29.0,Unknown,Marketing,Business,UAE,Lebanese,Employed,Unknown,Inactive,Word of Mouth,OMD (Optimum Media Direction),Senior Performance Executive,,
+Female,Yes,27.0,LU,Physics,Sciences,UAE,Lebanese,Employed,LU,Graduated,AUB Website,Emirates Airlines,Flight Attendant,,
+Male,No,39.0,CU,Medicine,Health,Saudi Arabia,Egyptian,Employed,Unknown,Active,Facebook,"Ministry of health, KSA",Project manager,,
+Male,Yes,39.0,USJ,Social Sciences,Sciences,Lebanon,Lebanese,Unemployed,USJ,Dropped,AUB Website,,,,
+Male,Yes,27.0,Unknown,Electrical  & Computer Engineering,Engineering,UAE,Lebanese,Employed,Unknown,Inactive,AUB Website,Clemenceau Medical Center,Billing Officer,,
+Male,No,30.0,Unknown,Business Administration,Business,UAE,French,Unemployed,Unknown,Graduated,Word of Mouth,,,,
+Male,Yes,53.0,AUB,Engineering Technologies,Engineering,UAE,Lebanese,Employed,AUB,Graduated,Email from AUB,ETTS,CEO,,
+Female,No,27.0,AUB,Engineering Management,Engineering,Lebanon,Lebanese,Employed,AUB,Dropped,An ad on Google search,Leading Modern Company for Logistics Services,Senior Operations Analyst,,
+Male,No,33.0,NDU,Finance,Business,Lebanon,Lebanese,Employed,NDU,Dropped,Facebook,Blom bank,Internal financial reporting analyst,,
+Female,No,26.0,USJ,Dentistry- Speciality,Health,Lebanon,Lebanese,Employed,USJ,Dropped,Instagram,Self-employed at Tohme Clinic,Prosthodontist,,
+Female,No,30.0,Unknown,Business Administration,Business,UAE,American,Unemployed,Unknown,Dropped,Word of Mouth,,,,
+Female,No,33.0,AUB,Business Management,Business,Qatar,Lebanese,Employed,AUB,Dropped,Instagram,Elan Decaux,Sales executive,,
+Male,No,24.0,NDU,Mechanical Engineering,Engineering,Lebanon,Lebanese,Unemployed,NDU,Graduated,AUB Website,,,,
+Male,Yes,38.0,LU,Pharmacy,Health,Lebanon,Lebanese,Employed,LU,Graduated,Instagram,Internnational Medical Corps,"MHPSS, Senior Pharmacist",,
+Male,Yes,25.0,Balamand,Engineering Technologies,Engineering,Lebanon,Lebanese,Unemployed,Balamand,Dropped,Instagram,,,,
+Male,No,31.0,Unknown,Chemical Engineering,Engineering,Netherlands,Lebanese,Unemployed,Unknown,Inactive,An ad on Google search,,,,
+Male,Yes,38.0,Sagesse,Marketing,Business,Lebanon,Lebanese,Unemployed,Sagesse,Graduated,An ad on social media,,,,
+Male,No,23.0,Balamand,Mechanical Engineering,Engineering,Oman,Lebanese,Employed,Balamand,Graduated,Word of Mouth,Bashaer Gulf Duqm (BGD),Site Engineer,,
+Female,No,41.0,LAU,Hospitality and Tourism Management,Arts & Others,Lebanon,Lebanese,Employed,LAU,Graduated,Word of Mouth,Self Employed,Freelancer,,
+Female,Yes,45.0,AUB,Public Administration,Business,Lebanon,Lebanese,Employed,AUB,Graduated,An ad on social media,Safrat Travel,General Manager,,
+Male,No,35.0,AUB,Business Administration,Business,Lebanon,Lebanese,Employed,AUB,Graduated,An ad on Google search,Cedars Brokers & Consultants,Director,,
+Female,Yes,27.0,Unknown,Medical Genetics and Genomics,Health,United Kingdom,Lebanese,Employed,Unknown,Dropped,Word of Mouth,Lonza,Senior Scientist,,
+Female,Yes,25.0,AUB,Medicine,Health,Lebanon,Lebanese,Unemployed,AUB,Dropped,AUB Website,,,,
+Male,Yes,29.0,LU,Electronics,Engineering,Lebanon,Lebanese,Employed,LU,Dropped,Facebook,Khater Engineering & Trading (Siemens Official Solution Partner),"BMS, Automation & Control Engineer",,
+Male,Yes,26.0,AUB,Mechanical Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Graduated,Email from AUB,AJB Hightech Ltd.,Control & Automation Engineer,,
+Female,No,31.0,CU,Communication,Engineering,Jordan,Egyptian,Employed,Unknown,Graduated,Facebook,ARIJ,Co-coach,,
+Female,No,34.0,AUB,Business Administration,Business,Lebanon,Lebanese,Employed,AUB,Graduated,Instagram,Rassem trading Company,Manager,,
+Female,Yes,36.0,Unknown,Agricultural and Extension education,Engineering,Lebanon,Lebanese,Employed,Unknown,Graduated,Facebook,UNHCR,Associate Monitoring and Evaluation Officer,,
+Female,Yes,36.0,LIU,Nutrition and Dietetics,Health,Lebanon,Lebanese,Employed,LIU,Graduated,Word of Mouth,Vie Saine,Senior Dietitian and Life Coach,,
+Female,No,30.0,USJ,Economics,Business,Lebanon,Lebanese,Employed,USJ,Dropped,Instagram,CMA CGM,Studies & Marketing Manager,,
+Male,No,28.0,AUB,Civil Engineering,Engineering,UAE,Lebanese,Employed,AUB,Active,LinkedIn,Smart Education,Head of Robotics & ICT Department,,
+Male,Yes,27.0,Unknown,Civil Engineering,Engineering,Kuwait,Lebanese,Employed,Unknown,Graduated,Google search,Riham General Trading and Contracting Co.,Procurement and estimation engineer,,
+Female,Yes,25.0,LU,Mathematics,Sciences,Lebanon,Lebanese,Employed,LU,Dropped,Sponsor Ad,Abdulhamid Haidar,Math Content Specialist,,
+Female,No,26.0,AUB,Psychology,Arts & Others,UAE,American,Unemployed,AUB,Graduated,Email from AUB,,,,
+Male,Yes,23.0,BAU,Physics,Sciences,Lebanon,Lebanese,Unemployed,BAU,Graduated,LinkedIn,,,,
+Male,No,23.0,AUB,Chemistry,Sciences,Lebanon,Lebanese,Unemployed,AUB,Dropped,Email from AUB,,,,
+Female,Yes,23.0,LU,Mathematics,Sciences,Lebanon,Lebanese,Unemployed,LU,Graduated,Instagram,,,,
+Female,Yes,26.0,LAU,Information Technology Management,CS/IT/MIS,Lebanon,Lebanese,Employed,LAU,Graduated,AUB Website,ITICO Pharma,IT Manager,,
+Female,Yes,28.0,Unknown,Data Analytics and Program Evaluation,CS/IT/MIS,Lebanon,Lebanese,Employed,Unknown,Graduated,AUB Website,AUB,Data Engineering,,
+Male,Yes,42.0,AUST,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,AUST,Graduated,An ad on Google search,DataFlow,Senior Front End Developer,,
+Female,No,44.0,BAU,Computer Science,CS/IT/MIS,UAE,Palestinian,Employed,BAU,Dropped,Instagram,International Community School,IT Specialist,,
+Male,Yes,40.0,LU,Management Information System,CS/IT/MIS,UAE,Lebanese,Employed,LU,Dropped,AUB Website,Al Zahrawi Medical Supplies LLC,Procurement & Logistics Manager,,
+Male,Yes,50.0,LU,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,LU,Graduated,AUB Website,IDS-Fintech,Senior Team Leader,,
+Female,Yes,27.0,NDU,Math & Statistics,Sciences,Lebanon,Lebanese,Employed,NDU,Dropped,Facebook,SABIS,Teacher,,
+Male,No,23.0,Unknown,Computer Engineering and Technology,Engineering,Lebanon,Lebanese,Unemployed,Unknown,Graduated,Word of Mouth,,,,
+Female,No,21.0,Unknown,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Unemployed,Unknown,Graduated,AUB Website,,,,
+Male,Yes,24.0,Balamand,Mechatronics Engineering,Engineering,Lebanon,Syrian,Employed,Balamand,Graduated,Instagram,Norna AI,Data Analyst,,
+Female,Yes,33.0,AUB,Electrical & Computer Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Graduated,Facebook,AUB,Part Time Lecturer,,
+Female,No,34.0,AUB,Electrical & Computer Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Graduated,Instagram,Laceco,Executive Management,,
+Male,Yes,31.0,Unknown,Mathematics,Sciences,Lebanon,Lebanese,Employed,Unknown,Graduated,Instagram,American University of Middle East,Instructor,,
+Male,Yes,22.0,LIU,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,LIU,Dropped,Word of Mouth,Y76,Software Engineer,,
+Male,No,42.0,NDU,Business Computer,Business,Lebanon,Lebanese,Employed,NDU,Graduated,Word of Mouth,Indafo Offshore,Project Manager,,
+Male,No,44.0,LU,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,LU,Dropped,AUB Website,PowerMe,CTO,,
+Female,Yes,23.0,LU,Math & Statistics,Sciences,Lebanon,Lebanese,Unemployed,LU,Graduated,Facebook,,,,
+Male,No,29.0,AUB,Mathematics,Sciences,Lebanon,Lebanese,Employed,AUB,Graduated,Facebook,Publicis Groupe,Senior Executive,,
+Female,No,29.0,AUB,Electrical & Computer Engineering,Engineering,Kuwait,Lebanese,Employed,AUB,Graduated,Instagram,Dar Al Shifa Hopsital,Senior IT Application Analyst,,
+Female,No,32.0,Unknown,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,Unknown,Graduated,Instagram,Smart College,Software Developer,,
+Female,No,25.0,NDU,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,NDU,Graduated,Instagram,APGAR Group,Technical Data Engineer,,
+Female,No,34.0,Unknown,NanoEngineering,Engineering,Lebanon,Lebanese,Unemployed,Unknown,Graduated,AUB Website,,,,
+Male,No,45.0,AUB,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Graduated,AUB Website,AUB,"Director of Digital Initiatives and Scholarship, University Libraries",,
+Female,No,35.0,LU,Medicine,Health,Cote D'Ivoire,Lebanese,Employed,LU,Dropped,AUB Website,Luxury Clinic,Endodontist,,
+Female,No,34.0,Unknown,Educational technology,Arts & Others,UAE,Jordanian,Employed,Unknown,Inactive,Instagram,Ajyal School,Educational specialist,,
+Female,Yes,49.0,AUB,Educational administration and policy writing,Arts & Others,Qatar,Lebanese,Employed,AUB,Dropped,LinkedIn,Qatar Foundation,Principal,,
+Female,No,26.0,USEK,Biology,Sciences,Lebanon,Lebanese,Employed,USEK,Graduated,Instagram,Dictalive,Medical Assitant,,
+Female,No,21.0,AUB,Business Administration,Business,Qatar,Lebanese,Unemployed,AUB,Graduated,Instagram,,,,
+Male,No,24.0,Balamand,Biology,Sciences,Lebanon,Lebanese,Unemployed,Balamand,Dropped,Instagram,,,,
+Male,Yes,26.0,AUB,Public Health,Health,Lebanon,Lebanese,Employed,AUB,Graduated,AUB Website,American University of Beirut,Research Associate,,
+Female,Yes,25.0,AUB,Chemistry,Sciences,Saudi Arabia,Lebanese,Employed,AUB,Graduated,Facebook,International School in Riyadh Ksa,Science Teacher,,
+Male,No,52.0,AUB,Health Professions and Related Programs,Health,Lebanon,Lebanese,Employed,AUB,Inactive,AUB Website,AUBMC,Assistant Professor in Clinical Radiation Oncology,,
+Male,No,26.0,NDU,Nursing,Health,Lebanon,Lebanese,Employed,NDU,Graduated,AUB Website,Saint George hospital medical center,RN,,
+Male,Yes,29.0,AUB,Biology,Sciences,Lebanon,Lebanese,Employed,AUB,Graduated,Instagram,Oxfam,Policy Lead,,
+Female,Yes,26.0,Unknown,Health Professions and Related Programs,Health,UAE,Palestinian,Employed,Unknown,Graduated,AUB Website,CCAD,Research Scholar,,
+Male,Yes,25.0,AUB,Business Management,Business,UAE,Lebanese,Employed,AUB,Inactive,AUB Website,Archirodon,Project Engineering,,
+Female,No,24.0,Unknown,Business Administration,Business,Lebanon,American,Unemployed,Unknown,Inactive,AUB Website,,,,
+Male,No,32.0,LAU,Interior Design,Arts & Others,Lebanon,Lebanese,Employed,LAU,Dropped,Instagram,Yuwalem,Designer,,
+Female,Yes,22.0,Unknown,Economics,Business,Lebanon,Lebanese,Employed,Unknown,Active,Instagram,United Petroleum Company Sal,Junior accountant,,
+Female,Yes,45.0,AUB,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Graduated,Email from AUB,AUBMC,Executive Officer,,
+Male,Yes,21.0,LAU,Information Technology and Operations Management,CS/IT/MIS,Lebanon,Palestinian,Unemployed,LAU,Graduated,Instagram,,,,
+Female,Yes,22.0,AUB,Biology,Sciences,Lebanon,Syrian,Unemployed,AUB,Active,Instagram,,,,
+Female,Yes,23.0,AUST,Medical Laboratory Sciences,Health,Lebanon,Lebanese,Employed,AUST,Graduated,Instagram,CMA CGM Beirut Terminal,Administration,,
+Female,Yes,25.0,AUB,Business Administration,Business,Belgium,Lebanese,Employed,AUB,Graduated,Email from AUB,Freedom Diamonds,Account Manager,,
+Male,Yes,37.0,LU,Political Studies,Arts & Others,Lebanon,Lebanese,Employed,LU,Graduated,Word of Mouth,Médecins Sans Frontières (MSF)/ Doctors Without Borders,"Projects, Outreach & Campaigns Manager",,
+Male,No,24.0,LAU,Economics,Business,Lebanon,Lebanese,Unemployed,LAU,Graduated,Instagram,,,,
+Female,No,37.0,LAU,Business Administration,Business,Lebanon,Lebanese,Employed,LAU,Graduated,Facebook,BBAC,Head of Sanctions & Combating corruption and bribery,,
+Male,No,23.0,Unknown,Business Administration,Business,Lebanon,Lebanese,Unemployed,Unknown,Dropped,Word of Mouth,,,,
+Female,No,25.0,AUB,Public Health,Health,Lebanon,Lebanese,Employed,AUB,Active,Word of Mouth,Ana Aqra Association,"Monitoring, Evaluation, Research, and Learning Assistant",,
+Female,No,21.0,AUB,Elementary Education,Arts & Others,Lebanon,Lebanese,Employed,AUB,Graduated,Email from AUB,LAU,Administrative Assistant,,
+Female,Yes,34.0,LAU,Business Management,Business,Lebanon,Lebanese,Employed,LAU,Graduated,Instagram,Inspire,Business Analyst,,
+Female,No,31.0,Unknown,Medicine,Health,Palestine,Palestinian,Unemployed,Unknown,Graduated,AUB Website,,,,
+Male,No,24.0,AUB,Graphic Design,Arts & Others,Lebanon,Lebanese,Employed,AUB,Dropped,LinkedIn,Specialized Arab Care Hospital,Cheif Resident - Operational Manager,,
+Female,No,23.0,AUB,Chemical Engineering,Engineering,Cote D'Ivoire,Lebanese,Unemployed,AUB,Graduated,AUB Website,,,,
+Male,Yes,38.0,AUB,Computer Science,CS/IT/MIS,Saudi Arabia,Lebanese,Employed,AUB,Graduated,Word of Mouth,Netvariant,Co-Founder and COO,,
+Male,Yes,25.0,USEK,Medicine,Health,Lebanon,Lebanese,Unemployed,USEK,Dropped,Sponsor Ad,,,,
+Male,No,37.0,AUB,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,AUB,Graduated,AUB Website,NEWTEK SOLUTIONS,SENIOR BUSINESS ANALYST,,
+Female,No,38.0,AUB,Public Health,Health,Lebanon,Lebanese,Unemployed,AUB,Graduated,LinkedIn,,,,
+Female,Yes,40.0,LU,Business Administration,Business,Lebanon,Lebanese,Employed,LU,Graduated,Facebook,Public Sector- Council of Development and Reconstruction,Financial Expert,,
+Male,No,44.0,LU,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,LU,Graduated,Email from AUB,Ericsson,Senior Solution Architect,,
+Female,No,41.0,AUB,Public Health,Health,Lebanon,Lebanese,Employed,AUB,Graduated,AUB Website,AUBMC,Senior registered nurse,,
+Male,No,38.0,Empire State College,Business Administration,Business,Lebanon,Lebanese,Employed,Unknown,Graduated,Sponsor Ad,Proximie,Cloud Engineer,,
+Female,Yes,24.0,AUB,Mathematics,Sciences,UAE,Lebanese,Employed,AUB,Graduated,Google Search,,Teacher,,
+Female,Yes,55.0,AUB,Business Administration,Business,Lebanon,Lebanese,Employed,AUB,Dropped,Email from AUB,Bank Audi,Head of business commercial south area,,
+Male,No,31.0,LIU,Management Information Systems,CS/IT/MIS,Lebanon,Lebanese,Employed,LIU,Inactive,AUB Website,Al Mayadeen TV,IT Network and systems administrator,,
+Male,Yes,24.0,LIU,Business Administration,Business,Lebanon,Lebanese,Employed,LIU,Active,Instagram,Herbmed,Data entry and stock monitoring,,
+Male,Yes,23.0,RHU,Engineering Technologies and Engineering-Related Fields,Engineering,Lebanon,Lebanese,Unemployed,RHU,Graduated,Sponsor Ad,,,,
+Male,No,25.0,BAU,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,BAU,Graduated,An Ad on Google Search,CME,Digital Content,,
+Female,No,31.0,NDU,Business Administration,Business,Lebanon,Lebanese,Employed,NDU,Dropped,Facebook,The Nawaya Network,Country Manager / Business Development Manager,,
+Male,Yes,38.0,LU,Business Administration,Business,Lebanon,Lebanese,Employed,LU,Graduated,Facebook,Azentio SoftwareLebanon sal,Finance Manager,,
+Male,Yes,31.0,LU,Electrical & Computer Engineering,Engineering,Lebanon,Lebanese,Employed,LU,Graduated,AUB Website,Baytek offshore,senior Business Consultant,,
+Male,No,24.0,Antonine University,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,Antonine University,Active,Word of Mouth,Hussein Dhayne,Electrical engineer,,
+Male,No,49.0,AUB,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,BMB SAL,Software developer,,
+Female,No,35.0,AUB,Electrical & Computer Engineering,Engineering,Kuwait,Lebanese,Employed,AUB,Graduated,AUB Website,American College of Middle East,Computer engineering instructor,,
+Female,No,24.0,LU,Mathematics,Sciences,Lebanon,Lebanese,Employed,LU,Graduated,AUB Website,Evengelical school of Rabieh,teacher,,
+Male,No,26.0,LAU,Computer Science,CS/IT/MIS,Netherlands,Lebanese,Employed,LAU,Active,Word of Mouth,SkillLab,Product Manager,,
+Male,Yes,40.0,AUL,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,AUL,Graduated,An Ad on Youtube,BI Solutions House,Founder,,
+Female,No,25.0,AUB,Math & Statistics,Sciences,Lebanon,Lebanese,Employed,AUB,Graduated,Instagram,Daraj Media,Data Analyst,,
+Male,No,23.0,AUB,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Unemployed,AUB,Graduated,AUB Website,,,,
+Female,Yes,36.0,LIU,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,LIU,Active,Word of Mouth,EDM,Full Stack PHP Developer,,
+Female,No,21.0,LIU,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Unemployed,LIU,Graduated,AUB Website,,,,
+Male,Yes,22.0,RHU,Mechatornics Engineering,Engineering,Lebanon,Palestinian,Unemployed,RHU,Graduated,Instagram,,,,
+Male,Yes,44.0,AUB,Computer Science,CS/IT/MIS,Qatar,Lebanese,Employed,AUB,Dropped,AUB Website,Fadaat Media,Sap project manager,,
+Male,Yes,40.0,Antonine University,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,Antonine University,Inactive,AUB Website,A.N.Boukather,Head of Development,,
+Female,Yes,30.0,AUB,Biomedical Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Dropped,Email from AUB,American University of Beirut (AUB),Research Assistant,,
+Male,No,55.0,LU,Electrical & Computer Engineering,Engineering,Saudi Arabia,Lebanese,Employed,LU,Graduated,Facebook,Norconsult Telematics,GM Advisor,,
+Male,No,,,,Business,Lebanon,Lebanese,Employed,Unknown,Active,Provost Initiative,AUB,Assistant Professor,,
+Male,No,41.0,Purdue University,"Systems, Measurement, and Control",Engineering,Lebanon,Lebanese,Employed,Unknown,Active,Provost Initiative,AUB,Associate Professor,,
+Male,Yes,47.0,LU,Education,Arts & Others,Lebanon,Lebanese,Employed,LU,Dropped,Provost Initiative,AUB,Associate Professor,,
+Male,No,,,,Health,Lebanon,Lebanese,Employed,Unknown,Inactive,Provost Initiative,AUB,Associate Professor,,
+Female,Yes,50.0,USJ,MD,Health,Lebanon,Lebanese,Employed,USJ,Graduated,Provost Initiative,AUB,Full Professor,,
+Male,No,,,,Engineering,Lebanon,American,Employed,Unknown,Dropped,Provost Initiative,AUB,Assistant Professor,,
+Male,Yes,48.0,University of Surrey,Statistics,Sciences,Lebanon,Lebanese,Employed,Unknown,Inactive,Provost Initiative,AUB,Full Professor,,
+Female,Yes,55.0,AUB,Chemistry,Sciences,Lebanon,Lebanese,Employed,AUB,Graduated,Provost Initiative,AUB,Instructor,,
+Female,No,51.0,Université Saint Joseph (USJ),Business Administration,Business,Lebanon,Lebanese,Employed,USJ,Active,AUB Website,Jreissati Enterprises sal / Scentle.com,"Owner, Manager",,
+Male,Yes,45.0,Rennes 1 University,Computer Science,CS/IT/MIS,UAE,Lebanese,Employed,Unknown,Active,LinkedIn,Onespan,Senior Regional Sales Manager,,
+Female,No,33.0,Lebanese University (LU),Accounting & Auditing,Business,Lebanon,Lebanese,Employed,LU,Active,Word of Mouth,Utrix SAL,Business Excellence Head,,
+Male,No,24.0,Lebanese University,Electronics,Sciences,Lebanon,Lebanese,Employed,LU,Dropped,AUB Website,Gargour automotive company,Electrical and electronic technician,,
+Female,Yes,26.0,American University of Beirut (AUB),Business Administration,Business,Lebanon,Lebanese,Employed,AUB,Active,LinkedIn,Somfy,Accountant,,
+Male,Yes,30.0,Lebanese International University (LIU),Management information system,CS/IT/MIS,Lebanon,Lebanese,Employed,LIU,Active,Facebook,CMA CGM,Senior E-commerce,,
+Female,Yes,36.0,Antonine University,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,Antonine University,Active,AUB Website,Orient swiss - Zood,Product Manager,,
+Male,Yes,33.0,Lebanese International University,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,LIU,Active,LinkedIn,VOX Solutions,Routing & Quality Specialist,,
+Male,Yes,27.0,"Arts, Sciences, and Technology University inLebanon",Business Administration,Business,Lebanon,Lebanese,Employed,AUL,Active,AUB Website,SETS SARL,Information Technology Support Specialist,,
+Female,Yes,46.0,Lebanese University (LU),Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,LU,Dropped,Facebook,Al kafaat technical institute,Head of IT department,,
+Male,No,22.0,American University of Beirut (AUB),Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,AUB,Inactive,AUB Website,AUBMC,Application Analyst,,
+Male,No,36.0,Antonine University,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,Antonine University,Active,Instagram,People365,Software Development Manager,,
+Female,No,43.0,Nantes University France,Civil Engineering,Engineering,Lebanon,Lebanese,Employed,Unknown,Graduated,AUB Website,AUB,Professor,,
+Female,Yes,41.0,CNAM,Audit,Business,Lebanon,Lebanese,Employed,CNAM,Dropped,Email from AUB,Patchi,Financial Controller,,
+Male,Yes,34.0,AUST,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,AUST,Active,AUB Website,Meeting Point,IT Administrator,,
+Female,Yes,36.0,Lebanese International University (LIU),Biomedical Sciences,Sciences,Qatar,Lebanese,Employed,LIU,Active,An Ad on Google Search,Harvard American School,Scientific Research Coordinator,,
+Female,Yes,36.0,Antonine University,Business Administration,Business,Lebanon,Lebanese,Employed,Antonine University,Dropped,Instagram,AUB - Emergency Department,Program Coordinator,,
+Female,No,21.0,Notre Dame University (NDU),Physics,Sciences,Lebanon,Lebanese,Employed,NDU,Active,Instagram,"Irfan High School Sawfar, and Ebadieh Official Secondary School",Physics Secondary School Teacher,,
+Male,No,21.0,American University of Beirut (AUB),Political Studies,Arts & Others,Lebanon,Lebanese,Unemployed,AUB,Active,AUB Website,,,,
+Male,No,52.0,American University of Science and Technology (AUST),Business Administration,Business,Lebanon,Lebanese,Employed,AUST,Active,Facebook,Ogero Telecom,Dada Analyst and System Administrator,,
+Female,No,26.0,Beirut Arab University (BAU),Architecture and Related Services,Engineering,Lebanon,Lebanese,Employed,BAU,Active,AUB Website,P & P,Consultant,,
+Male,Yes,24.0,CNAM,Electrical and Computing Engineering,Engineering,Lebanon,Lebanese,Employed,CNAM,Graduated,Instagram,Sakr-Holding,Junior Electrical Engineer,,
+Male,No,48.0,Kuwait Maastricht Business School,Strategic Management,Business,Kuwait,Kuwaiti,Employed,Unknown,Active,Instagram,Ahli Bank Of Kuwait,Digital Transformation Executive Manager,,
+Male,Yes,37.0,Beirut Arab University (BAU),Computer Science,CS/IT/MIS,Saudi Arabia,Lebanese,Employed,BAU,Active,LinkedIn,Almabani General Contractors,Systems Development Manager,,
+Female,No,27.0,Lebanese University (LU),Physics,Sciences,Lebanon,Lebanese,Unemployed,LU,Active,AUB Website,,,,
+Male,No,53.0,American University of Beirut (AUB),Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Active,Instagram,Cybernas,Chief Technology Officer,,
+Female,No,53.0,Université Saint Joseph (USJ),Dentist,Health,Lebanon,Lebanese,Unemployed,USJ,Active,Email from AUB,,,,
+Male,Yes,48.0,London Business School,Business Administration,Business,Kuwait,Lebanese,Employed,Unknown,Dropped,Instagram,Sama Educational Company,IT Director,,
+Male,Yes,27.0,Notre Dame University (NDU),Mechanical Engineering,Engineering,Lebanon,Lebanese,Employed,NDU,Active,AUB Website,Fox EMS,Senior Business Development,,
+Female,Yes,25.0,Phoenicia University,Petroleum Engineering,Engineering,Lebanon,Lebanese,Employed,Unknown,Active,Instagram,iSolutions,GCP Presales Engineer,,
+Female,Yes,28.0,CNAM,Computer Science,Engineering,Lebanon,Lebanese,Employed,CNAM,Active,AUB Website,Designer 24,Software engineer,,
+Male,No,30.0,Qatar University,Mechanical Engineering,Engineering,Qatar,Lebanese,Employed,Unknown,Active,Instagram,AECOM Middle East,Project Controls Engineer,,
+Female,No,24.0,Notre Dame University (NDU),Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,NDU,Active,AUB Website,Cloud Ambiance,Technical and Functional Consultant,,
+Male,Yes,26.0,Beirut Arab University (BAU),Civil Engineering,Engineering,UAE,Lebanese,Employed,BAU,Active,AUB Website,Arabian construction company,Project control engineer,,
+Female,Yes,36.0,American University of Beirut (AUB),Public Health,Health,Lebanon,Lebanese,Employed,AUB,Dropped,Email from AUB,AUB,Senior Research Assistant,,
+Male,Yes,36.0,American University of Beirut (AUB),Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,AUB,Inactive,AUB Website,Azadea group,Senior Application Developer,,
+Female,Yes,35.0,Lebanese University (LU),Math & Statistics,Sciences,Lebanon,Lebanese,Unemployed,LU,Inactive,LinkedIn,,,,
+Male,Yes,26.0,Lebanese University (LU),Civil Engineering,Engineering,Lebanon,Lebanese,Employed,LU,Active,I was searching for a course about data science on google,Walid Daniel,Design Engineer,,
+Male,Yes,27.0,Beirut Arab University (BAU),Medicine,Health,Lebanon,Lebanese,Employed,BAU,Active,Instagram,StabilityAI,AI Model Fine-tuner,,
+Female,Yes,35.0,Lebanese University (LU),Math & Statistics,Sciences,Lebanon,Lebanese,Employed,LU,Dropped,AUB Website,SNC School,Math Teacher,,
+Female,No,24.0,Lebanese International University (LIU),Mathematics,Sciences,Saudi Arabia,Lebanese,Employed,LIU,Active,Instagram,Tarbiyah Namouthajiya International School,Teacher,,
+Male,No,44.0,Universite Claude Bernard Lyon 1,Physics,Sciences,Lebanon,Lebanese,Employed,Unknown,Graduated,Instagram,Rafik Hariri University,Acting Dean of the College of Arts and Sciences - Associate Professor,,
+Female,No,22.0,American University of Beirut (AUB),Chemistry,Sciences,Lebanon,Lebanese,Unemployed,AUB,Graduated,AUB Website,,,,
+Female,Yes,39.0,Lebanese University (LU),Civil Engineering,Engineering,Kuwait,Lebanese,Employed,LU,Active,Instagram,American University of the Middle East (AUM) - Kuwait,Assistant Professor,,
+Male,No,44.0,Royal College of Surgeons,Medicine,Health,USA,Lebanese,Employed,Unknown,Active,An Ad on Google Search,Neurocare of the South,Neurologist,,
+Male,Yes,29.0,Beirut Arab University (BAU),Petroleum Engineering,Engineering,Saudi Arabia,Lebanese,Employed,BAU,Active,Sponsor Ad,Hatcon Company Limited,Technical Sales Consultant,,"I am having restrictions in the oil industry in the Middle East (due to myLebanese nationality), which is limiting my career growth as well. The program will add great value for me, as I decided to start the journey for a career change, toward data and business analytics."
+Female,Yes,29.0,Adeleke University,Biochemistry,Sciences,Lebanon,Nigerian,Employed,Unknown,Active,Instagram,Adventist Learning Center,Teacher,,
+Male,Yes,36.0,University of Technology Sydney,Computer & Communications Engineering,Engineering,Qatar,Lebanese,Employed,Unknown,Inactive,AUB Website,Midis Group,Senior Account Manager,,
+Male,No,31.0,Arab Academy in Denmark,Business Management,Business,Saudi Arabia,Palestinian,Employed,Unknown,Active,AUB Website,Hay Group,total rewards senior consultant,,
+Male,Yes,27.0,Lebanese American University (LAU),Physics,Sciences,Lebanon,Lebanese,Employed,LAU,Active,i was searching for certificates in data science inLebanon,Maison prunelle restaurant,chef de rang,,this program offers me the best way to fill the gap i have to transition to the field of data science .
+Male,Yes,28.0,Lebanese University (LU),Electrical & Computer Engineering,Engineering,Lebanon,Lebanese,Employed,LU,Active,Sponsor Ad,BBAC,MIS Officer,,"I would like to pursue a career more dedicated towards data science, and become more involved in the evolving fields of artificial intelligence."
+Female,Yes,35.0,Haigazian University,Mathematics,Sciences,Saudi Arabia,Lebanese,Unemployed,Haigazian,Active,Instagram,,,,Changing my career path.
+Male,No,43.0,Notre Dame University (NDU),Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,NDU,Active,AUB Website,International Committee of the Red Cross,ICT Manager,,
+Female,Yes,25.0,Lebanese American University (LAU),Marketing,Business,Lebanon,Lebanese,Employed,LAU,Dropped,Sponsor Ad,Dice Marketing & Advertising Agency,Assistant Manager,Enhance Expertise,"I have a huge interest in AI! AI is highly requested in the job workforce, i already use it and its the number one trend right now, so i definitely want to explore this field more and enhance my analytical thinking and AI skills. In parallel with my dream"
+Male,Yes,22.0,Islamic University ofLebanon (IUL),Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,IUL,Active,my friend,Ahmad Makhzoum,Software Developer,,
+Male,Yes,27.0,Lebanese University (LU),Public Law,Arts & Others,Lebanon,Lebanese,Unemployed,LU,Active,AUB Website,,,,I am interested in making a career change from law into data science
+Female,Yes,46.0,Université Saint Joseph (USJ),Business Administration,Business,Lebanon,Lebanese,Employed,USJ,Active,Instagram,Ministry of Education,Minister office,,I also have knowledge in coding and some programming languages
+Female,No,45.0,Beirut Arab University (BAU),Electrical & Computer Engineering,Engineering,Lebanon,Palestinian,Employed,BAU,Active,Facebook,Beirut Arab University,Assistant professor,,
+Female,Yes,52.0,Lebanese University (LU),Computer Science,CS/IT/MIS,Lebanon,Lebanese,Unemployed,LU,Active,Instagram,,,,
+Male,No,22.0,Lebanese American University (LAU),Physics,Sciences,Lebanon,Lebanese,Employed,LAU,Active,Instagram,Englease,English Teacher,,Why are you interested in this program / What is the intended benefit from the program
+Male,Yes,23.0,Lebanese American University (LAU),Information Technology Management,CS/IT/MIS,Lebanon,Lebanese,Unemployed,LAU,Inactive,AUB Website,,,Career Change,I have been trying to get into Data Science for a career change. I believe this diploma will grant me the advantage and skills I need to jumpstart my transition.
+Male,No,49.0,AUL,Computer and Communications Engineering,Engineering,Lebanon,Lebanese,Employed,AUL,Active,Instagram,Solidere,IT manager,,
+Female,No,22.0,Lebanese University (LU),Physics,Sciences,Lebanon,Lebanese,Employed,LU,Active,AUB Website,CodeBrave,Coding and Robotics Teacher,,
+Female,Yes,23.0,Lebanese University (LU),Mathematics,Sciences,Lebanon,Lebanese,Unemployed,LU,Active,Sponsor Ad,,,Career Advancement,"I am quite interested in this program because I am confident in the resources and guidance it will provide me to help me reach my goals of entering the field of AI and machine learning. During my work at CodeBrave, I taught AI and ML courses using Python,"
+Female,Yes,22.0,Arab Open University,Computer Science,CS/IT/MIS,Saudi Arabia,Lebanese,Unemployed,Unknown,Active,Instagram,,,,
+Male,No,51.0,Université Saint Joseph (USJ),Electrical & Computer Engineering,Engineering,Lebanon,Lebanese,Employed,USJ,Active,LinkedIn,SABIS,Special Assistant • Information & Digital Technologies,,I am interested in this program as it will provide me with the opportunity to improve my knowledge of innovative technologies
+Female,No,29.0,American University of Beirut (AUB),Electrical & Computer Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,Dar al Shifa Hospital - Kuwait,Application Analyst (remote),Career Advancement,"I am aiming at enhancing my skills in those domains to open up new opportunities for my career, also to have a disciplined curriculum and a certification from your reputable establishment."
+Female,Yes,41.0,American University of Beirut (AUB),Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Unemployed,AUB,Active,Instagram,,,,
+Male,No,24.0,Haigazian University,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,Haigazian,Dropped,AUB Website,Aspire Software,Implementation Specialist,Lifelong Learner,"AI industry is a growing and promising industry that will have impact on different fields. AI is completely changing the face of technolgy, thus I think it is exciting to be part of this revolutionary transition."
+Female,No,22.0,American University of Beirut (AUB),Computer Science,CS/IT/MIS,Lebanon,Lebanese,Unemployed,AUB,Inactive,Instagram,,,,
+Female,No,41.0,American University of Science and Technology (AUST),Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,AUST,Active,Email from AUB,AUB,Instructor at ECE Labs,,I am interested in Artificial Intelligenc
+Female,No,29.0,Lebanese University (LU),Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Unemployed,LU,Active,AUB Website,,,,
+Male,Yes,30.0,Beirut Arab University (BAU),Civil Engineering,Engineering,Lebanon,Lebanese,Employed,BAU,Active,Facebook,Bees Lighting,E-commerce Specialist,Career Advancement,
+Male,No,42.0,Notre Dame University (NDU),Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,NDU,Active,Facebook,Sabis Educational Services,Solutions Architect,Career Advancement,"AI is the future of technology and communication, as an Instructor at AUB I would like to be up to date in information and technology in order to be on a high level and help my students when they need me in their projects. In addition to increase my perso"
+Male,No,37.0,Hult International Business School,Business Administration,Business,Lebanon,Lebanese,Employed,Unknown,Active,Email from AUB,Beytek SAL Offshore,Technical Director,Lifelong Learner,AI & Data Science are very important fields nowadays and are applicable for various fields. As an engineer our fields are widely affected by Al and machine learning hence my interested for getting a degree in it.
+Female,No,37.0,University of Jordan,Business Administration,Business,Lebanon,Lebanese,Employed,Unknown,Active,AUB Website,Beytek SAL Offshore,Technical Director,Career Advancement,"I am very interested in this program to develop my skills, particularly in E-commerce. I have already started learning data science on my own, and I want to advance to a professional level through this program."
+Male,No,36.0,Universite de Nice Sophia Antipolis,Biomedical Engineering,Engineering,Saudi Arabia,Lebanese,Employed,Unknown,Active,LinkedIn,Dr. Sulaiman Al Habib Medical Group (FLOW Medical Solutions),Business Process Management Leader,Enhance Expertise,AI is very important in today's world and it is still the beginning. This is very important for me to get to know more about it to improve my technical profile.
+Female,No,53.0,American University of Beirut (AUB),Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,AUB,Active,AUB Website,American University of Beirut,"Team Lead, Business Intelligence and Analytics",,
+Female,No,22.0,Holy Spirit University of Kaslik (USEK),Computer Science,CS/IT/MIS,Qatar,Lebanese,Employed,USEK,Active,AUB Website,Maalomatia,Functional consultant,Career Advancement,"I have years of experience in data analysis, and I am very interested in AI, I believe after this course I will have great knowledge to advance in this field"
+Male,No,22.0,Lebanese American University (LAU),Physics,Sciences,Lebanon,Lebanese,Unemployed,LAU,Graduated,Instagram,,,Career Advancement,"I am interested in this program because, professionally, it aligns with my current role in performance excellence and business process management within one of the largest healthcare groups in the region. The program will equip me with advanced skills to"
+Female,No,21.0,American University of Beirut (AUB),Economics,Business,Lebanon,Lebanese,Unemployed,AUB,Dropped,AUB Website,,,,Implement and develop an AI and DS area as part of the IT services offering.
+Male,No,27.0,Lebanese International University (LIU),Computer & Communications Engineering,Engineering,Saudi Arabia,Lebanese,Employed,LIU,Active,Instagram,Data Consult,Senior Software Engineer and Integration Analyst,Career Advancement,"My interest in pursuing this AI diploma stems from a deep fascination with the transformative potential of artificial intelligence. OpenAI's groundbreaking work has been a major inspiration, fueling my desire to deepen my knowledge and contribute to the f"
+Male,No,22.0,American University of Beirut (AUB),Mechanical Engineering,Engineering,Lebanon,Lebanese,Unemployed,AUB,Active,Word of Mouth,,,Career Advancement,"I am looking forward to pursue a career in data science, and believe that this diploma opens doors in that field."
+Male,No,38.0,Lebanese University (LU),Business Computing ( Management Information Systems),CS/IT/MIS,UAE,Lebanese,Employed,LU,Active,AUB Website,Crowd One Network Services,Head of Business Intelligence,Enhance Expertise,"During my undergraduate degree, I minored in Data Science and really liked it. So I would like to expand my knowledge in the field."
+Male,No,48.0,Lebanese American University (LAU),Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,LAU,Inactive,Facebook,Bano Trading SAL,Regional IT Manager,Career Advancement,"I am interested in joining the professional diploma in Artificial Intelligence to deepen my expertise in machine learning and AI engineering and stay at the forefront of this rapidly evolving field. With my experience in LLM fine-tuning, chatbots with adv"
+Male,No,37.0,Lebanese University (LU),Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,LU,Inactive,Facebook,Bano Puratos,Regional IT Supervisor,Lifelong Learner,I intrested control process courses which include AI.
+Male,No,22.0,Haigazian University,Computational science,CS/IT/MIS,Lebanon,Lebanese,Employed,Haigazian,Dropped,Word of Mouth,Exclusive Management,Telesales Consultant,,
+Female,No,43.0,Lebanese University (LU),Math and Statistics,Sciences,Lebanon,Lebanese,Employed,LU,Graduated,Email from AUB,AUB,Associate Professor,,"So, I need to have more knowledge and enhance my skills"
+Male,Yes,52.0,Lebanese University (LU),Biology,Sciences,Lebanon,Lebanese,Employed,LU,Active,Email from AUB,AUB,Clinical Assistant professor,Career Advancement,ChatGPT
+Male,Yes,44.0,Paris-Sud Orsay,Genetics,Health,Lebanon,Lebanese,Employed,Unknown,Active,LinkedIn,AUB,Associate Professor,,
+Male,Yes,35.0,University of Franche Comte,PhD in engineering sciences and microsystems,Engineering,Lebanon,Lebanese,Employed,Unknown,Active,Email from AUB,AUB,Assistant Professor,,"I’m interested in this program because AI is quickly changing the world, and it’s important to understand how it can be used in analytics and data science. This is the right time to harness the power of AI and be among the early adopters leadin"
+Female,Yes,32.0,American University of Beirut (AUB),Physics,Sciences,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,AUB,Lecturer,Career Advancement,I would like to enhance my skills and enter to the AI field
+Female,Yes,60.0,American University of Beirut (AUB),Health Professions and Related Programs,Health,Lebanon,Lebanese,Employed,AUB,Graduated,Email from AUB,AUBMC,Assistant Professor,,"With the rise of AI, and being a software developers it's crucial to continuously improve our technical knowledge."
+Male,Yes,42.0,Notre Dame University (NDU),Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,NDU,Inactive,Email from AUB,AUB,Associate Professor and program coordinator,Career Advancement,A program like this would be a big step forward towards my goals and would teach me a lot of new things that would be useful throughout my career.
+Male,No,31.0,Lebanese American University (LAU),Biology,Sciences,Lebanon,Lebanese,Employed,LAU,Dropped,Email from AUB,AUB,Assistant Professor,,
+Female,No,47.0,American University of Beirut (AUB),Medicine,Health,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,AUB,Professor of Family medicine,,
+Male,Yes,61.0,Universita degli Studi di Parma,Geology,Sciences,Lebanon,Lebanese,Employed,Unknown,Active,Email from AUB,AUB,Assistant Professor,,
+Male,No,30.0,Lebanese University (LU),International Economics,Business,Lebanon,Lebanese,Employed,LU,Active,Email from AUB,AUB,Project Manager,,
+Female,Yes,44.0,American University of Beirut (AUB),Biology,Health,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,AUB,Associate Professor,,
+Female,No,,American University of Beirut (AUB),Political Studies,Arts & Others,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,AUB,Associate Professor,,
+Female,No,57.0,American University of Beirut (AUB),Public Health,Health,Lebanon,Lebanese,Employed,AUB,Graduated,Email from AUB,AUB,Assistant Professor of Family Medicine,,
+Male,No,61.0,American University of Beirut (AUB),Civil Engineering,Engineering,Lebanon/Cyprus,Lebanese,Employed,AUB,Active,Email from the Provost's Office about the opportunity for AUB faculty members to take the courses,AUB,Professor,,
+Female,No,33.0,American University of Beirut (AUB),Petroleum Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Graduated,Email from AUB,AUB,Assistant Professor,,
+Female,No,66.0,American University of Beirut (AUB),Medicine,Health,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,AUB,Professor of Medicine,,
+Male,Yes,56.0,American University of Beirut (AUB),Political Studies,Arts & Others,Lebanon,Lebanese,Employed,AUB,Dropped,Email from AUB,AUB,Professor and university Librarian,,
+Female,Yes,43.0,American University of Beirut (AUB),Medicine,Health,Lebanon,Lebanese,Employed,AUB,Dropped,Email from AUB,AUBMC,Assistant Professor of Clinical Medicine,,
+Female,Yes,42.0,American University of Beirut (AUB),Medicine,Health,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,AUBMC,Assistant Professor,,
+Female,No,48.0,Université Saint Joseph (USJ),Business Administration,Business,Lebanon,Lebanese,Employed,USJ,Dropped,Email from AUB,AUB,Professor of HRM and Associate Provost,,
+Male,No,37.0,Prince Mohammed Bin Salman College of Business & Entrepreneurship (MBSC),Business Administration,Business,Saudi Arabia,Canadian,Employed,Unknown,Active,LinkedIn,NEOM,Business & Strategy Manager,,
+Male,No,42.0,Université Saint Joseph (USJ),Medicine,Health,Lebanon,Lebanese,Employed,USJ,Dropped,Email from AUB,AUBMC,Assistant Professor of Clinical Radiology,,
+Male,No,32.0,Sharjah University,Computer Science,CS/IT/MIS,UAE,Palestinian,Employed,Unknown,Inactive,Instagram,Omnia,Back-End Engineer,,
+Male,Yes,42.0,Al-Azher University,Computer & Communications Engineering,Engineering,Saudi Arabia,Egyptian,Employed,Unknown,Active,Word of Mouth,Westcon-Comstor,Business Development Manager,,"Will help me enormously in my research and services I provide to AUB (e.g., research data analysis/assessment, university rankings, benchmarking, etc.)"
+Female,Yes,46.0,Qatar University,Business Management,Business,Qatar,Qatari,Employed,Unknown,Active,Instagram,Hamad Medical Corporation,Physical Therapy Manager,,This program has many implications on my field of infectious diseases as far as diagnostics as well as novel methods of drud administartion to areas where concentration of antibiotics is poor via traditional methods
+Male,No,54.0,Lebanese American University (LAU),Business Administration,Business,Saudi Arabia,Lebanese,Employed,LAU,Active,Facebook,Marble and Granite international company,Strategic planning manager,,
+Male,Yes,37.0,American University of Science and Technology (AUST),Management Information Systems,CS/IT/MIS,Saudi Arabia,Lebanese,Employed,AUST,Active,LinkedIn,MACC FM,IT Manager,,
+Male,Yes,31.0,Cardiff Metropolitan University,Business Administration,Business,Lebanon,Lebanese,Employed,Unknown,Active,AUB Website,CMA CGM,Data Management Analyst,Enhance Expertise,I am interested to join the AI & DS program because it is an excellent opportunity to develop my professional skills in such a great entity. I am confident that the program will provide me with the resources and guidance needed to reach my goals and proce
+Female,No,27.0,Lebanese University (LU),Computational Science,CS/IT/MIS,Lebanon,Lebanese,Employed,LU,Active,An Ad on Google Search,CME Offshore Company,Software Engineer,,I would like to transition my career to become an AI engineer or data scientist.
+Male,Yes,33.0,Lebanese University (LU),Geography,Arts & Others,Lebanon,Lebanese,Unemployed,LU,Inactive,Facebook,,,,
+Female,No,22.0,Notre Dame University (NDU),Biology,Sciences,Lebanon,Lebanese,Unemployed,NDU,Active,AUB Website,,,Certification,"I'm interested in this program because I want to gain the technical skills needed to leverage AI and data science in solving real-world problems. These fields are rapidly transforming industries, and I’m eager to be part of that innovation."
+Male,No,31.0,Lebanese American University (LAU),Management information system,CS/IT/MIS,Lebanon,Lebanese,Employed,LAU,Active,Word of Mouth,Istikbal,Procurement /supply chain,Career Change,The future is shifting towards heavily relying on large data driven decisions that can also be optimized using Ai tools
+Female,No,24.0,University of medical sciences and technology,Economics,Business,Egypt,Sudanese,Unemployed,Unknown,Active,AUB Website,,,Enhance Expertise,
+Female,No,29.0,Beirut Arab University (BAU),Business Administration,Business,Lebanon,Palestinian,Employed,BAU,Active,Email from AUB,American Near East Refugee Aid,"Monitoring, Evaluation, Accountability, & Learning Officer (MEAL Officer)",,
+Female,No,35.0,American University of Beirut (AUB),Engineering Manegement,Engineering,Lebanon,Lebanese,Employed,AUB,Inactive,LinkedIn,Butec,Tendering Engineer,,
+Male,Yes,33.0,Lebanese International University (LIU),Communication and Related Programs,Engineering,Mali,lebanese,Employed,LIU,Active,AUB Website,BADAWISTORE - SARL,COMMERCIAL MANAGER,Career Change,I am interested in the Artificial Intelligence & Data Science Online Graduate Professional Diploma because I am passionate about transitioning into a career that aligns with my interest in technology and data-driven decision-making. As a Commercial Manage
+Female,No,27.0,Lebanese International University (LIU),Biomedical Engineering,Engineering,Lebanon,Lebanese,Employed,LIU,Active,AUB Website,Med Surg Solutions,Senior Marketing Coordinator,Lifelong Learner,"I am applying for this diploma because artificial intelligence is a new era and I am looking to improve my qualifications in AI to advance my career. I am eager to learn from experienced professionals and collaborate with like-minded peers, which I believ"
+Female,No,30.0,University of Southampton,Risk and finance,Business,Lebanon,Lebanese,Employed,Unknown,Active,Word of Mouth,UNHCR,Information Managament Assistant,Career Advancement,"I have been working for the past 7 years in data management at credit bank, nestle, undp Jordan along with escwa, ifrc and unhcr"
+Female,No,41.0,American University of Beirut (AUB),Engineering Technologies and Engineering-Related Fields,Engineering,Lebanon,Lebanese,Employed,AUB,Dropped,Email from AUB,American University of Beirut,Assistant Research Professor,Career Advancement,"I want to improve my data analysis skills, especially in AI and data science, to better understand and use data in my work."
+Female,Yes,25.0,Queen Mary University of London,Biomedical Engineering,Engineering,England,Lebanese,Employed,Unknown,Active,AUB Website,Key Health Solutions,Clinical engineer,Career Change,To delve deeper into the field of AI which is becoming increasingly important in the healthcare field.
+Female,No,40.0,Notre Dame University (NDU),Project and Operations Management,Arts & Others,Lebanon,Lebanese,Employed,NDU,Active,Word of Mouth,MRH,Data Analyst/Project Manager,Enhance Expertise,"I am a data analyst looking to expand my expertise by gaining new knowledge and essential skills in data analysis and AI applications. I believe it's essential to stay updated with the latest advancements in the field, and obtaining this certificate will"
+Male,Yes,27.0,American University of Culture & Education (AUCE),Computer Science,CS/IT/MIS,Qatar,Lebanese,Employed,Unknown,Active,AUB Website,Hamad Bin Khalifa University,PostDoc,Enhance Expertise,"I have a Bachelor in computer science (from AUCE, Lebanon), Bachelor in Mathematics (from LIU, Lebanon), Master of Data Analytics (from Hamad Bin Khalifah University, Qatar), and a PhD in Computer Science and Engineering (from Hamad Bin Khalifah Universit"
+Female,No,29.0,Université Saint Joseph (USJ),Translation,Arts & Others,Lebanon,Lebanese,Employed,USJ,Active,Instagram,Alternative Character,UX Writer - Translator,Lifelong Learner,"To whom it may concern,_x000D_
+_x000D_
+I am reaching out to express my interest in the Artificial Intelligence & Data Science Online Graduate Professional Diploma. Through this program, I aim to build my skills in data science and AI, and to improve precision and eff"
+Female,Yes,41.0,University Of Reading,Biomedical Engineering,Engineering,Lebanon,Lebanese,Employed,Unknown,Active,AUB Website,"Dr. Gina Momtaz, AUB Health and Sciences Department",Project Coordinator - Consultant,Enhance Expertise,"Part of my PhD research was on machine learning algorithms for the prediction and monitoring of chronic health diseases. I have achieved good theoratical knowledge about machine learning and data analysis, and I would like to strengthen my experimental ex"
+Male,Yes,52.0,Lebanese American University (LAU),Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,LAU,Active,Instagram,Dar al handasah consultants (shair and partners),IT ASSET MANAGER,Career Advancement,I believe that AI became a main pillar towards building a successful career path in today's information technology industry.
+Male,No,40.0,American University of Beirut (AUB),Business Administration,Business,Lebanon,Lebanese,Employed,AUB,Active,Word of Mouth,SNA Insurance,CFO,Enhance Expertise,Testttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+Male,No,37.0,Lebanese University (LU),Computer & Communications Engineering,Engineering,UAE,Lebanese,Employed,LU,Active,AUB Website,Emircom,Sr. Presale Engineer,Enhance Expertise,"UAE is one of the top tech countries in the world, as I moved to it last year, I started to discover what AI is bringing to the different industries in the country from technology to healthcare..._x000D_
+We are now in the AI era, and I am eager to learn through"
+Female,No,44.0,Université Saint Joseph (USJ),Pharmaceutical Studies,Health,Lebanon,Lebanese,Employed,USJ,Active,Instagram,Roche,Patient Journey Partner - Enabler - communications lead,Career Advancement,AI is a must in our ear for people to grow in their career and deepen their learnings and skills. I would like to be proactive and be on the wave while our world is moving forward.. Hoping that our country will stop moving backward...
+Male,No,30.0,Lebanese International University (LIU),Business Management,Business,Lebanon,Lebanese,Employed,LIU,Active,Instagram,Sama Telecom,Account Manager,Career Advancement,"Because I see how AI and Data Science are taking more and more importance nowadays, and I'm looking to be more involved in this field to develop myself and my career."
+Male,Yes,29.0,Rafic Al-Hariri University,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,RHU,Active,"I applied for the cybersecurity course, but learned from the coordinator that there is a course in data and AI",IPT Powertech,Electrical Technician,Career Change,"I have always had the ambition to learn about data. After years of working as a technician, I thrived for a career change. Studied the Google data analytics course on coursera and gained the certificate. Since then, I fell in love more with data. Felt lik"
+Female,Yes,31.0,Lebanese University (LU),Economics,Business,Lebanon,Lebanese,Employed,LU,Active,AUB Website,IMS (an ITG company),Project Coordinator,Career Change,"I'm interested in this program because I believe AI and data science have the potential to address critical challenges.  I aim to gain the skills to make smarter decisions, create meaningful solutions, and unlock new career opportunities with greater grow"
+Female,No,39.0,Dublin Institute of Technology,Business Management,Business,Lebanon,Irish,Employed,Unknown,Active,Instagram,Keybeyond,CEO,,
+Female,Yes,50.0,Beirut Arab University (BAU),Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,BAU,Active,AUB Website,Beirut Arab Univrsity,Assistant professor,Career Advancement,I'm interested in this program to learn the basics of AI and gaining skills in machine learning to enhance my degree.
+Female,No,26.0,Barcelona School of Economics,Economics,Business,Lebanon,Lebanese,Unemployed,Unknown,Active,Instagram,,,Career Advancement,"I am interested in the AI and Data Science Graduate Diploma program at the American University of Beirut because it perfectly aligns with my academic foundation in economics, my professional experience in operations management, and my aspirations to lever"
+Female,No,25.0,American University of Beirut (AUB),Epidemiology,Health,Lebanon,Lebanese,Employed,AUB,Active,AUB Website,American University of Beirut,Research Assistant,Career Advancement,"I am interested in this program because it will provide me with the skills and knowledge in Data Science and AI, which are becoming increasingly essential in research and analysis. As an epidemiologist, I aim to enhance my ability to work with complex dat"
+Male,No,23.0,American University of Science and Technology (AUST),Business Management,Business,Lebanon,Lebanese,Unemployed,AUST,Active,Word of Mouth,,,Career Change,"I’m really excited about building a career in this industry and doing everything I can to get involved early. It’s still growing and full of potential, which makes it a great time to jump on board before it becomes saturated. I’ve always loved challenging"
+Female,No,26.0,American University of Science and Technology (AUST),Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Unemployed,AUST,Active,Sponsor Ad,,,Career Advancement,"I’m interested in the AI and Data Analytics program at AUB because it aligns with my passion and career goals in these cutting-edge fields. AUB’s strong reputation, experienced faculty, and comprehensive curriculum provide the ideal environment to develop"
+Male,Yes,25.0,Lebanese International University (LIU),Information Technology,CS/IT/MIS,Lebanon,Lebanese,Employed,LIU,Active,AUB Website,Gis Transport LTD,Senior Software Engineer,Lifelong Learner,"I was looking to expand my expertise by learning ai due to its impact ans the high demand on it in the work field._x000D_
+I was surprised to find an online program at AUB, which is a dream i can finally afford but couldnt enroll due to my full time job commitme"
+Female,Yes,26.0,American University of Beirut (AUB),Food Safety,Arts & Others,Lebanon,Lebanese,Employed,AUB,Active,Instagram,American University of Beirut,Research Assistant,Career Advancement,"I hold a Bachelors' Degree in Biology and a Masters; Degree in Food Safety. Currently, I am working as a research assistant at the American University of Beirut. My work heavily relies on data collection and analysis using statistical tools like SPSS. Thi"
+Male,Yes,21.0,Rafic Al-Hariri University,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Unemployed,RHU,Active,LinkedIn,,,Career Advancement,I'm interested in this program because it mainly combines theoretical and practical knowledge in AI and DS and it alligns perfectly with my computer science academic background and my career aspirations. What also made me interested is the rich curriculum
+Female,Yes,56.0,American University of Beirut (AUB),Mathematics,Sciences,Lebanon,Lebanese,Employed,AUB,Dropped,AUB Website,Middle East Airlines,SAG,,
+Male,Yes,44.0,Florida International University,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,Unknown,Inactive,Word of Mouth,AUBMC,IT MC Applications  - Sr. Software Engineer,,
+Male,Yes,37.0,Beirut Arab University (BAU),Architecture and Related Services,Engineering,Qatar,Lebanese,Employed,BAU,Active,AUB Website,IMAR Trading & Contracting,Senior Construction Manager,Career Change,"I am interested to apply for the artificial intelligence & data science online graduate professional diploma because I see it as an opportunity to grow both personally & professionally. As architectural engineer & senior construction manager, I have alway"
+Male,Yes,23.0,American University of Science and Technology (AUST),Computer & Communications Engineering,Engineering,Lebanon,Palestinian,Employed,AUST,Active,Instagram,Daher Foundation,Technical Lead - Curriculum Developer and Trainer,Career Advancement,"I am interested in the program as a tech enthusiast with a strong passion for artificial intelligence. I believe AI has the potential to elevate our community, enabling us to develop innovative projects and solutions."
+Male,No,24.0,Lebanese University (LU),Sports Management,Arts & Others,Lebanon,Lebanese,Unemployed,LU,Active,An Ad on Google Search,,,Career Advancement,"As a master's student in sports management planning to launch a sports software startup, I'm interested in AUB's Artificial Intelligence and Data Analytics course to gain the skills needed to develop innovative, data-driven solutions for the sports indust"
+Female,Yes,56.0,University Lille II,Medicine,Health,Lebanon,Lebanese,Employed,Unknown,Active,The colleagues at work,Lebanese Ministry of Public Health,"Head, Epidemiological Surveillance Program",Enhance Expertise,To be able to apply it at work for better data management of national surveillance data and  timely sharing of information with decision makers
+Female,Yes,27.0,Modern University For Buisness and Science(MUBS),Elementary Education,Arts & Others,Lebanon,Lebanese,Unemployed,Unknown,Active,Facebook,,,,
+Male,No,43.0,Texas University,Engineering Technologies and Engineering-Related Fields,Engineering,Qatar,Qatari,Employed,Unknown,Active,Instagram,Tourism Authority in Qatar,consultant,Career Advancement,"As an engineer, I am highly interested in enrolling in the AI diploma at AUB because it offers a unique opportunity to expand my technical expertise in a rapidly evolving field. AI is transforming industries, and gaining advanced knowledge will significan"
+Female,No,43.0,American University of Beirut (AUB),Political Studies,Arts & Others,Qatar,Lebanese,Employed,AUB,Active,Instagram,Al Jazeera Media Network,executive producer,Career Advancement,"As a media executive producer and AUB alumnus, I am keen to enroll in the AI Diploma at AUB due to the exciting career growth opportunities it offers. The integration of artificial intelligence in media production is revolutionizing the industry, and acqu"
+Male,No,32.0,Abu Dhabi University,Business Administration,Business,UAE,Lebanese,Employed,Unknown,Active,Instagram,Al Masaood Energy,Regional Business Development Manager,Career Advancement,"In my current role, I am responsible for integrating AI into our existing operations and services. Additionally, I oversee sourcing AI-driven solutions for our regional customers to help improve their bottom line."
+Male,Yes,61.0,University of Toronto,Mechanical Engineering,Engineering,Lebanon,Lebanese,Employed,Unknown,Active,AUB Website,Port of Beirut,Director,Certification,"In this day and age, AI & DS are encompassing almost all aspects of our lives. _x000D_
+AI & DS are in high demand with a wide range of application.  From management to design to operations.  It can be used to develop large datasets to gain valuable insights for"
+Male,Yes,30.0,Lebanese American University (LAU),Physics,Sciences,Lebanon,Lebanese,Employed,LAU,Active,AUB Website,Al Manar Institute,Teacher,Career Change,"I am interested in the masters program in computational science and engineering at AUB and right now I am raising funds for it. In the mean time, i want to learn this diploma to prepare myself for the masters at AUB in computational science data analytics"
+Female,Yes,22.0,Lebanese International University (LIU),Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,LIU,Active,Instagram,CME Offshore,Senior Software Engineer,,
+Female,Yes,26.0,Lebanese International University (LIU),Business Administration,Business,Lebanon,Lebanese,Unemployed,LIU,Active,Instagram,,,Enhance Expertise,"AI and data science are exciting fields because they solve real-world problems by analyzing data and building intelligent systems. They blend technology, math, and creativity, driving innovation in areas like healthcare, finance, and all types of business"
+Male,No,44.0,Lebanese University (LU),Media & Communication,Arts & Others,Lebanon,Lebanese,Employed,LU,Active,Word of Mouth,British Broadcasting Corporation,Senior Journalist,Career Advancement,I am currently specializing in hemato-onco and recent years have witnessed a large trend towards utility of AI in Medicine so i think its important for future HCPs to be proficient with this tool
+Male,Yes,34.0,Islamic University ofLebanon (IUL),Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,Unknown,Active,AUB Website,Globemed Solutions,Senior Development Officer,Career Advancement,"Since graduation I have worked as a software developer. I recently joined a new company and earned a promotion to Senior Developer. Despite the demanding nature of my current role, I am dedicated to ongoing professional growth and am in search of more cha"
+Male,Yes,36.0,Lebanese International University (LIU),Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,LIU,Inactive,Facebook,Banque Misr Liban,Application Developer,Enhance Expertise,"As I believe the future of almost every industry is heading towards the AI, I am eager to be on the right track to be part of this transformation.
+
+
+
+I look forward to build an application that uses AI to solve a real-world problem."
+Male,Yes,32.0,Makassed University Of Beirut,Health Professions and Related Programs,Health,Lebanon,Lebanese,Employed,Unknown,Active,AUB Website,AUBMC,Respiratory Therapist,Lifelong Learner,i want to gain more knowledge and skills in this field since the new era of education and research highly depends on AI and DS. i hope this program will help me develop the skills needed to pursue my career plan.
+Female,Yes,36.0,American University of Beirut (AUB),Economics,Business,Lebanon,Lebanese,Employed,AUB,Active,Instagram,Global Gate Capital,Vice President,Lifelong Learner,"As a wealth manager,  it would be interesting to better understand AI , how it is shaping the world; and how it could affect investment decisions"
+Female,Yes,49.0,Lebanese University (LU),Biology,Sciences,Lebanon,Lebanese,Employed,LU,Active,Instagram,Health guidance in public schools,Education Minister,,
+Female,Yes,48.0,Université Saint Joseph (USJ),Risk management,Business,Lebanon,Lebanese,Employed,USJ,Active,Instagram,Credit Libanais s.a.l,Head unit,Career Advancement,"I believe that AI is the future and I need to be part of it. Furthermore, it’s a great career enhancement, I need to combine AI, Excel and python to become an efficient data analyst… I think that this program will open the door towards  great opportunitie"
+Male,Yes,35.0,Lebanese International University (LIU),Business Administration,Business,Lebanon,Lebanese,Employed,LIU,Active,AUB Website,AUBMC,Respiratory therapist,Lifelong Learner,AI is the new era of all sciences and the wide gate of knowledge in the near future that anyone should know about and have the potentials to benefit from all opportunities that AI offers to boost their learning and development journey especially in DS and
+Male,No,21.0,Lebanese American University (LAU),Business Administration,Business,Lebanon,Lebanese,Unemployed,LAU,Active,AUB Website,,,Career Advancement,"I have always been a tech person since my childhood. With the rapid advancements in artificial intelligence and data science, this field has become one of the most exciting and impactful areas to pursue. I see this diploma as the starting point of my tech"
+Female,No,29.0,Abu Dhabi University,Chemical Engineering,Engineering,UAE,Palestinian,Employed,Unknown,Active,AUB Website,AL MASAOOD ENERGY,SALES ENGINEER,Career Advancement,"I was always interested in technology, programming, and AI since I started learning about them. I would love to get the change to learn more about AI and Data Science in a way that will benefit my career from a reputable institute like AUB. I feel like th"
+Male,Yes,40.0,Lebanese University,History,Arts & Others,Lebanon,Lebanese,Employed,LU,Active,Facebook,MTV - Studio Vision,Warehouse assistant Manager,,
+Male,Yes,36.0,Al- Balqa' Applied University (BAU),Computer & Communications Engineering,Engineering,Jordan,Jordanian,Employed,Unknown,Active,I did a search on Google,Nournet,Cybersecurity Director,Career Advancement,I'am currently working as a Technical Director in the cybersecurity field for a leading company in the GCC region. I am particularly interested in data science and AI because the market is rapidly shifting toward integrating these technologies across all
+Male,Yes,41.0,Sagesse University,Political Studies,Arts & Others,Lebanon,Lebanese,Employed,Unknown,Active,Google Search query,OMD,Head of Strategy,Career Advancement,"As an ambitious, lifelong learner, i believe this diploma will help me broaden my expertise as it will eventually enhance my skillset by providing me with the right tools to leverage data & technology for better decision making"
+Male,No,34.0,Lebanese American University (LAU),Mechanical Engineering,Engineering,Lebanon,Lebanese,Employed,LAU,Active,Word of Mouth,Middle East Airlines,Pilot-Captain,,
+Female,Yes,28.0,American University of Science and Technology (AUST),Forensic Science,Sciences,Lebanon,Lebanese,Employed,AUST,Active,Word of Mouth,St joseph medical center,Laboratory technician,Career Change,After working several years in the science field Im looking for a shift to a new field and since AI is the future I chose this program since it opens doors to wide range of career paths. Nowadays almost all the jobs work with AI and it can also be a chanc
+Male,No,39.0,Antonine University,Business Management,Business,Lebanon,Lebanese,Employed,Antonine,Active,AUB Website,Lebanese Army,Major Officer,Career Advancement,"I finished my master's degree in operations and logistics management, and I am looking forward to enhancing my AI skills"
+Male,Yes,36.0,Balamand University,Civil Engineering,Engineering,Saudi Arabia,Lebanese,Employed,Balamand,Active,AUB Website,Red sea global,Senior manager,Career Change,"I am excited to express my interest in studying Artificial Intelligence at the American University of Beirut. AI is transforming industries, reshaping the way we interact with technology, and opening endless opportunities for innovation. My motivation to"
+Male,No,44.0,Lebanese University (LU),Finance and Accounting,Business,Lebanon,Lebanese,Employed,LU,Active,Email from AUB,Mr. Maroun and Tania Semaan Villa,Facility Management,Enhance Expertise,"I am deeply passionate about artificial intelligence and its transformative potential in various industries. This program at AUB offers an unparalleled opportunity to gain cutting-edge knowledge, collaborate with experts, and contribute to innovative solu"
+Female,Yes,33.0,American University of Science and Technology (AUST),Computer & Communications Engineering,Engineering,Qatar,Lebanese,Employed,AUST,Active,AUB Website,I4 solutions,Customer success and renewal manager,Career Advancement,I am very passionate about AI and innovation. I developed a neural network backpropagation algorithm that was published in IEEE. I want to learn more about this topic and explore how I can use it to optimize my work.
+Male,No,30.0,American University of Beirut (AUB),Mechanical Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Active,Word of Mouth,Dar Al Handasah,Instrumentation and Controls Engineer,Career Change,"In our data driven world, the only path I see for real career growth is the know-how of using, understanding, analyzing, and manipulating data. I can see that this program can offer me the knowledge and practical expertise needed to transition into AI and"
+Female,Yes,30.0,American University of Beirut (AUB),Environmental Health,Health,Lebanon,Lebanese,Employed,AUB,Active,AUB Website,AUB,Administrative Assistant at the Comptroller's office,Career Advancement,"I am interested in pursuing the AI and Data Science certificate as it aligns with my long-term career goals and serves as a foundational step toward my Master's in Business Analytics (MSBA). By gaining expertise in AI and data science, I can enhance my ab"
+Male,No,25.0,Antonine University,Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,Antonine,Active,AUB Website,Georgio Bilani,Mid Senior Backend Developer,Career Change,"I am eager to join this program to deepen my understanding of data science and machine learning, enhancing my skills as a software engineer and transitioning towards innovative roles in this field. With a solid foundation in backend development, I aim to"
+Female,No,34.0,American University in Washington DC,MA in international peace and conflict resolution,Arts & Others,USA,American,Employed,Unknown,Active,AUB Website,MADRE,Grants Officer,Enhance Expertise,To better understand the impact and implications of AI in the human rights field and have a gender lens to it. I would love to utilize the new knowledge and skills and how it’s intersecting in my field.
+Male,Yes,42.0,Lebanese American University (LAU),Business Administration,Business,Lebanon,Lebanese,Unemployed,LAU,Active,Facebook,,,Certification,"Since I enjoy studying artificial intelligence and saw that data science started to emerge in the industry, I believe this combination is ideal for applying my coding skills and using machine learning to make data-driven predictions."
+Female,Yes,36.0,Université Saint Joseph (USJ),Nutrition & Dietetics,Arts & Others,Lebanon,Lebanese,Unemployed,USJ,Active,AUB Website,,,Career Advancement,"I am interested in the Artificial Intelligence and Data Science diploma because I see AI as a transformative skill in many fields. With my background in humanitarian work, I believe AI and data science tools can improve decision-making and enhance work re"
+Female,No,36.0,American University of Beirut (AUB),Business Administration,Business,UAE,Lebanese,Unemployed,AUB,Active,AUB Website,,,Career Advancement,"I am interested in the Artificial Intelligence & Data Science Online Graduate Professional Diploma to enhance my technical expertise in AI-driven solutions and data analytics. With a background in software implementation, project management, and customer"
+Female,Yes,47.0,University of The Littoral Opla Coast,Chemistry,Sciences,Lebanon,Lebanese,Employed,Unknown,Active,AUB Website,Lebanese Univeristy,Chemistry Professor,Career Advancement,"I am very interested in enrolling in the Artificial Intelligence & Data Science Online Graduate Professional Diploma at AUB. As someone with a background in environmental chemistry and extensive academic and research experience, I am eager to enhance my s"
+Female,Yes,34.0,National university of pharmacy,Pharmacy,Health,Lebanon,Lebanese,Unemployed,Unknown,Active,Sponsor Ad,,,Career Advancement,I ve been interested in this major since it's booming and i would like to implement AI in my work
+Male,No,32.0,Beirut Arab University (BAU),Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,BAU,Active,Instagram,Pay724 Carrier Services,SMS Project Manager,Career Change,"The reason why I am interested in this program is that I have gained enough experience in the telecom domain. In addition, to 5 years of project management. So, I would like to have the chance to get into the AI domain as it is the uprising technology and"
+Female,Yes,26.0,Notre Dame University (NDU),Architecture and Related Services,Engineering,Lebanon,Lebanese,Employed,NDU,Active,AUB Website,"Aquila Associates, Beit Misk",Architect,Career Advancement,I believe that learning AI & Data Science is essential for Architecture to stay at the forefront of the industry as the future of design is increasingly driven by technology & intelligent systems.
+Female,No,35.0,Université Saint Joseph (USJ),Food chemistry,Sciences,UAE,Lebanese,Employed,USJ,Dropped,Word of Mouth,Khalifa University Abu Dhabi,Post-doctoral researcher,Career Advancement,"Dear Admission committee, _x000D_
+_x000D_
+I am excited to apply for the AI & Data science online graduate program, as it represents a crucial step in my academic and professional journey. My background in biology, particularly my PhD research, has provided me with ex"
+Female,No,35.0,Lebanese University (LU),Public Health,Health,Lebanon,Lebanese,Employed,LU,Active,AUB Website,AUBMC,Senior Graduate Medical Education (GME) program coordinator,Career Advancement,"I am interested in this AI & Data Science diploma to gain essential skills that will enhance decision-making, process optimization, and innovation in healthcare management. With my 10 years’ experience in graduate medical education and involvement in heal"
+Male,Yes,37.0,University of Science and Technology (AUST),Business Management,Business,Saudi Arabia,Lebanese,Employed,AUST,Active,AUB Website,Webuild,IT Infrastructure Manager,Enhance Expertise,
+Male,Yes,54.0,American University of Beirut (AUB),Electrical & Computer Engineering,Engineering,UAE,Lebanese,Employed,AUB,Active,Google search,BUTEC Int'l,Operations Director,Enhance Expertise,To remain up to date with the latest trends in AI and integrate relevant insights into my company’s operations.
+Male,Yes,26.0,Lebanese International University (LIU),Electrical & Computer Engineering,Engineering,Lebanon,Lebanese,Employed,LIU,Active,LinkedIn,INTERSOS,MEAL and Reporting Officer,Career Change,"It is the future of the world, and I need to get the enough knowledge to be able to be productive in the field"
+Male,No,45.0,Lebanese American University (LAU),Business Management,Business,Nigeria,Palestinian,Employed,LAU,Active,Facebook,Jubaili Bros,Regional Financial Controller,Enhance Expertise,AI has become a needed tool for everyone in his special field or to expand opportunities in other areas.
+Female,Yes,33.0,Lebanese University (LU),Law,Arts & Others,Lebanon,Lebanese,Employed,LU,Active,Instagram,Baqer Darwish,Researcher,Enhance Expertise,"I believe AI is the future, and that, eventually, everyone will have to acquire knowledge on how to utilize AI, and that those who learn AI first, will be in a position of advancement."
+Female,Yes,29.0,American University of Beirut (AUB),Biology,Sciences,Lebanon,Lebanese,Employed,AUB,Active,Word of Mouth,AUB- FM- Pr. Ayad Jaffa,Research Assistant,Career Advancement,Delving deeply into AI enables me to comprehend its applications in medicine and effectively implement it.
+Male,No,52.0,Lebanese University (LU),Electrical & Computer Engineering,Engineering,Lebanon,Lebanese,Employed,LU,Active,Email from AUB,Self employee,Consultant,Career Advancement,"As I am writing to express my enthusiasm for enrolling in the Bachelor of Artificial Intelligence program. As a seasoned engineer, I have witnessed the transformative power of technology and am eager to deepen my understanding of AI. My passion for innova"
+Male,No,46.0,American University of Beirut (AUB),Medicine,Health,Lebanon,Lebanese,Employed,AUB,Active,An Ad on Google Search,Clemenceau médical center,Doctor,Career Advancement,"Being an anesthesiologist, I know the important role technologies and innovations have played in the advancement of anesthesia and optimization of healthcare delivery in the past fifty years . Over the course of my medical career , I have witnessed the tr"
+Male,Yes,25.0,American University of Science and Technology (AUST),Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,AUST,Active,AUB Website,Nassib Hatem,Software Developer,Career Advancement,"I'm interested in this program because I want to learn new skills, grow professionally, and work on real projects with others. It’s a great chance to improve and make a positive impact."
+Female,Yes,43.0,Lebanese University (LU),Geography,Arts & Others,Lebanon,Lebanese,Employed,LU,Active,Instagram,Saint Joseph School,Middle School Teacher Social in Studies & Administrative,Enhance Expertise,"I think AI will soon be part of school programs and administrative jobs, and this course should help me use and implement it in my work._x000D_
+As a mum, I also believe understanding AI is crucial to connect with my children’s generation"
+Female,No,24.0,Lebanese International University (LIU),Biology,Sciences,Lebanon,Syrian,Employed,LIU,Active,AUB Website,Applied Medical,Market Implementation Analyst,Career Advancement,"I’m interested in this program because the future is rapidly moving toward AI, and I want to deepen my understanding now to stay ahead. Although I’m not currently working in my field of study, I hope to apply AI to advance biology in the future. Additiona"
+Female,No,29.0,American University of Beirut (AUB),Economics,Business,Lebanon,Lebanese,Employed,AUB,Active,LinkedIn,MSD,Talent Acquisition Advisor,Enhance Expertise,I am passionate about continuous learning and development especially in relation to the most recent advancements taking place such as the progression of Artificial Intelligence and it's efficiency when embedded in multiple practices. I would like to know
+Male,No,43.0,Yarmouk University - Jordan,Electrical Power Engineering,Engineering,Jordan,Jordanian,Employed,Unknown,Active,Facebook,Egis Group / Omrania,Associate Director,Career Advancement,"Am intersted in bridging the gap between traditional electrical engineering practices and the transformative potential of AI. I want to be at forefront of integrating these technologies into consulting Engineering._x000D_
+I aim to evolve my career focus towards"
+Female,No,37.0,American University in Dubai,Computer & Communications Engineering,Engineering,Bahrain,Lebanese,Employed,Unknown,Active,A google search,American School ofBahrain,Technology Integration Specialist,Lifelong Learner,"I believe that harnessing the power of AI tools for any application starts with fully understanding how AI works the science behind it. _x000D_
+With the major advancements in AI currently, I would like to stay ahead and make informed decisions when implementing"
+Female,Yes,39.0,Lebanese University (LU),Statistics,Sciences,Lebanon,Lebanese,Employed,LU,Active,Facebook,Ministry,statistician,Career Advancement,"I am looking to enhance my skills in data processing, especially in how  to collect or download data and analyze it in very efficient way using python programming. Moreover, I am looking to have new skills that could help me in my work with the government"
+Male,No,52.0,Lebanese American University (LAU),Computer Science,CS/IT/MIS,Saudi Arabia,Lebanese,Employed,LAU,Active,Facebook,Saudi research and Media Group,Business Analyst,Enhance Expertise,"i am interested because of the vast integration of the AI, and the need to use and adopt on  different levels"
+Male,Yes,47.0,American University of Beirut (AUB),Political Studies,Arts & Others,Lebanon,Lebanese,Employed,AUB,Active,Word of Mouth,British Broadcasting Corperation (BBC),Senior Producer,Career Advancement,"I fell behind the internet rise in the 90s. I do not want to do the same with AI. From looking at how things are heading, in couple of years, I will probably need AI knowledge to stay in the market. I am also considering diversifying my income sources and"
+Male,Yes,47.0,American University of Beirut (AUB),Business Administration,Business,Lebanon,Lebanese,Employed,AUB,Active,AUB Website,MenaRest FZCO,CEO and Co0Founder,Lifelong Learner,"AI and data science are shaping our world right now, from personalized recommendations to medical breakthroughs. They influence how we work, communicate, and make decisions, making it essential to understand them. It’s not about mastering everything, but"
+Female,No,26.0,Université Saint Joseph (USJ),Pharmaceutical Studies,Health,Lebanon,Lebanese,Employed,USJ,Active,Through a friend,Dr. Layla Mahdi,Pharmacist,Career Advancement,Currently a master’s student at AUB in biochemistry and molecular genetics and I would like to pursue a PhD in Bioinformatics after i graduate.
+Male,No,44.0,Notre Dame University (NDU),Computer Science,CS/IT/MIS,UAE,Lebanese,Employed,NDU,Active,Word of Mouth,Qlik,Enterprise Sales Executive.,Enhance Expertise,"This program aligns perfectly with my new career path at Qlik, providing an opportunity to develop valuable skills and knowledge in Data Science and AI to support my long-term career growth."
+Male,Yes,36.0,Lebanese American University (LAU),Business Administration,Business,Lebanon,Lebanese,Employed,LAU,Active,AUB Website,BBAC Bank,"Dealer, Treasury department, Head Office",Enhance Expertise,"I am eager to gain a comprehensive understanding of AI tools and data science to enhance my current role. This degree will deepen my technical expertise, support my career growth, and contribute to my personal and professional development."
+Male,No,22.0,Lebanese American University (LAU),Computer Science,CS/IT/MIS,Lebanon,Lebanese,Unemployed,LAU,Active,AUB Website,,,Career Advancement,Artificial Intelligence is a booming field and I have no doubt that AUB will provide me with the right knowledge to be a part of this boom.
+Female,Yes,26.0,Université Sainte Famille,Health Professions and Related Programs,Health,Lebanon,Lebanese,Employed,Unknown,Active,Word of Mouth,SATA TECH,Customer Care agent,,
+Female,No,23.0,Bocconi University,Economics and Management for Arts Culture and Communication,Business,Italy,Lebanese,Employed,Unknown,Active,AUB Website,UN-ESCWA,Economist Intern,Career Advancement,"AI is undeniably intertwined with our future and I thought it was imperative for to dive deeper into the topic. Additionally, I think the combination of the bachelor degree I hold and this Diploma equips me with a broad knowledge base which allows natural"
+Female,Yes,25.0,Ipnet- dekwaneh,Computer Science,CS/IT/MIS,Lebanon,Lebanese,Employed,Unknown,Active,A friend,ISF,Private,Career Advancement,I am interested in studying AI because it combines technology and intelligence to solve real-world problems. I want to be part of creating smart solutions that can improve lives and shape the future
+Female,Yes,37.0,Modern sciences and arts university (MSA),Business Management,Business,Egypt,Lebanese,Unemployed,Unknown,Active,AUB Website,,,Career Change,I was always interested in data analysis and machine learning which is crucial for future technology trends and I wanted to do a career change by starting to further my education and this course will provide me with practical knowledge and open up new opp
+Female,Yes,36.0,Lebanese International University (LIU),Computer Science,CS/IT/MIS,Lebanon,Lebanese,Unemployed,LIU,Active,Instagram,,,Certification,Passionate about AI's power to solve real-world problems; AUB's cutting-edge program aligns with my goals to innovate & impact.
+Male,No,37.0,Arab Open University,Cybersecurity and Digital Forensics,CS/IT/MIS,Lebanon,Turkish,Employed,Unknown,Active,AUB Website,Maaloumatiya Network Services - UAE,Lead Infrastructure and Information Security Consultant,Enhance Expertise,
+Female,Yes,48.0,American University of Beirut (AUB),Environmental Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,American University of Beirut,Associate professor of Environmental Science,Career Advancement,"As a professor of environmental science, I am increasingly engaged with complex data sets related to pollution, climate, and resource management. AI and data science would offer me powerful tools to analyze these environmental issues more effectively. The"
+Male,No,49.0,Claude Bernard University - Lyon 1,Biomedical Engineering,Engineering,Lebanon,Lebanese,Employed,Unknown,Active,Email from AUB,AUB,professor - Faculty of Medicine,Enhance Expertise,this will allow me to be at the level of the current advancement and enhance my research productivity
+Female,No,43.0,American University of Beirut (AUB),Medicine,Health,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,AUBMC,Associate professor,Career Advancement,I am an otolaryngologist head and neck surgeon with a big interest in research. Research in the field has been incorporating AI and in order to compete and advance I need to do the same. Hence the need to know more about AI and how I can use it/integrate
+Male,No,32.0,American University of Beirut (AUB),Civil Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,American University of Beirut,Assistant Professor,Career Advancement,This diploma will provide me with the necessary knowledge and skills to incorporate AI applications into my teaching and research at AUB.
+Male,No,36.0,American University of Beirut (AUB),Medicine,Health,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,AUBMC,assistant professor,Enhance Expertise,"I want to see how I can Apply AI in medicine specifically in my everyday work, I want also to incorporate machine learning process in my ongoing and prospective research. This program will help me better understand and advance in this area."
+Female,Yes,36.0,American University of Beirut (AUB),Electrical & Computer Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,AUB,Instructor,Career Advancement,I’m interested in this Diploma because I want to build stronger skills in this field to grow professionally and better support my students as technology continues to evolve.
+Female,No,39.0,American University of Beirut (AUB),English Language,Arts & Others,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,AUB,Assistant Professor,Enhance Expertise,"As a corpus linguist, I'm interested in the relation between corpora and LLMs. I also want to grow as a researcher and teacher."
+Male,No,38.0,American University of Beirut (AUB),Computer & Communications Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,American University of Beirut,Assistant Professor,Lifelong Learner,I already filled this when I applied after the provost email. Please refer to the previous form.
+Male,Yes,47.0,American University of Beirut (AUB),Biology,Health,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,American University of Beirut,Instructor,Enhance Expertise,"I am interested in this program in order to better understand and use AI in teaching, research and curation."
+Male,No,50.0,Belarusian State Medical University,Medicine,Health,Lebanon,Lebanese,Employed,Unknown,Active,Email from AUB,AUB,Assistant Professor of clinical Pediatrics,Enhance Expertise,"As an Assistant Professor of Pediatrics and Pediatric Critical Care at AUBMC, I previously received foundational training in AI applications in medicine during my Master’s in SHARP and have delivered two lectures on this subject. Currently, I'm developing"
+Male,Yes,52.0,University of Sydney,Chemical Engineering,Engineering,Lebanon,Lebanese,Employed,Unknown,Active,Email from AUB,AUB,Professor,Lifelong Learner,Incorporating AI and Machine Learning in research as well as in undergraduate and graduate level courses.
+Female,Yes,39.0,University of Portsmouth,Accounting and Financial management,Business,Lebanon,Lebanese,Employed,Unknown,Active,Email from AUB,AUB,Senior Lecturer,Enhance Expertise,"The tools offered by the course are essential in my field of research, I see great value in taking this diploma as it will equipped with skills thats will advance my  research  and open new possibilities for me that traditional methods alone wont capture."
+Male,Yes,72.0,American University of Beirut (AUB),Electrical & Computer Engineering,Engineering,Lebanon,Lebanese,Employed,AUB,Active,Email from AUB,AUB,Professor,Lifelong Learner,I have used Artificial Neural Networks (ANN) back around the year 1995 in short-term load forecasting of electric power and energy in a power system. I also used ANN to predict the critical clearing time of a fault in an electric power system that keeps t
+Female,No,51.0,Beirut Arab University (BAU),Electronics and communications Engineering,Engineering,Dubai,Lebanese,Employed,BAU,Active,Friend,BLPs Dubai,ICT and stem teacher,Enhance Expertise,I am interested in the AI diploma at AUB because I want to gain a deeper understanding of how artificial intelligence is transforming industries. This program will equip me with the technical skills and critical thinking needed to innovate responsibly. AU
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
